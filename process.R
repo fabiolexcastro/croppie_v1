@@ -67,7 +67,7 @@ my_function <- function(month = 'octubre', pnts = pnts, gd = 23, chrp = r1, perc
   
   pnt <- filter(pnts, month_floracion == month)
   pnt <- filter(pnt, gid == gd)
-  cpr <- unique(pnt$Cooperativa)
+  cpr <- unique(pnt$Cooperativa) # Que se alumbren todos los puntos de estas cooperativa de otro color
   all <- filter(pnts, Cooperativa == cpr)
   mn_flo <- filter(mnts, month_floracion == pnt$month_floracion) %>% pull(2) %>% .:(.+2) %>% ifelse(. > 12, .-12, .)
   yr_hrv <- year(pnt$date_harvested)
@@ -101,7 +101,20 @@ my_function <- function(month = 'octubre', pnts = pnts, gd = 23, chrp = r1, perc
   
   # Return 
   return(list(r_cont = act_cont, r_bin = rcl))
-
+  
+  # Now to make the boxplot
+  bxp.dta <- as_tibble(cbind(dplyr::select(all, GPS_longitude, GPS_latitude, cos_kgha_1, cos_kgha_2), terra::extract(stk.all, dplyr::select(all, GPS_longitude, GPS_latitude))))
+  bxp.dta <- mutate(bxp.dta, class = ifelse(act < prc, 'Por debajo', 'Por encima'), class = factor(class, levels = c('Por debajo', 'Por encima')))
+  
+  gbox <- ggplot(data = bxp.dta, aes(x = class, y = cos_kgha_1, fill = class)) + 
+    geom_boxplot() + 
+    scale_fill_manual(values =  c("#41b6c4", "#fed98e"))+
+    xlab("Clasificiación de la Precipitación")+
+    ylab("Rendimiento (Kg/ha)")+
+    labs(fill = '') +
+    theme_bw() + 
+    theme(legend.position = 'bottom')
+      
 }
 
 my_function(month = 'octubre', pnts = pnts, gd = 23, chrp = r1, percentile = 0.8)

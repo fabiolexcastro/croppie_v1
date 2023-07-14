@@ -67,9 +67,7 @@ mnts <- tibble(month_floracion = c('enero', 'febrero', 'marzo', 'abril', 'mayo',
 # Server ------------------------------------------------------------------
 server <- function(input, output){
   
- 
   outs <- reactiveValues()
-  
  
   output$map1 <- renderLeaflet({
     
@@ -80,139 +78,136 @@ server <- function(input, output){
     
   })
   
-observeEvent(input$mnth1, {
+  observeEvent(input$mnth1, {
+    
+    outs$filt_db <- tble %>% 
+      filter(month_floracion == tolower(input$mnth1))
   
-  outs$filt_db <- tble %>% 
-    filter(month_floracion == tolower(input$mnth1))
-  
-  
-  leafletProxy("map1") %>%
-    clearGroup( group = "m1") %>% 
-    clearGroup( group = "m2") %>%
-    clearGroup( group = "Prec cont") %>%
-    clearGroup( group = "Prec class") %>%
-    clearControls() %>% 
-    addMarkers(layerId =  outs$filt_db$id,
-               lng = outs$filt_db$lon, 
-               lat = outs$filt_db$lat, 
-               popup = paste0('<b>Locality:</b> ', outs$filt_db$dpto, "<br>", 
-                              "<b>Floration month:</b>", outs$filt_db$month_floracion, "<br>",
-                              "<b>Yield 1:</b>", outs$filt_db$cos_kgha_1, " Kg/ha", "<br>",
-                              "<b>Yield 2:</b>", outs$filt_db$cos_kgha_2, " Kg/ha"),
-               group = "m1") 
+    
+    leafletProxy("map1") %>%
+      clearGroup( group = "m1") %>% 
+      clearGroup( group = "m2") %>%
+      clearGroup( group = "Prec cont") %>%
+      clearGroup( group = "Prec class") %>%
+      clearControls() %>% 
+      addMarkers(layerId =  outs$filt_db$id,
+                 lng = outs$filt_db$lon, 
+                 lat = outs$filt_db$lat, 
+                 popup = paste0('<b>Locality:</b> ', outs$filt_db$dpto, "<br>", 
+                                "<b>Floration month:</b>", outs$filt_db$month_floracion, "<br>",
+                                "<b>Yield 1:</b>", outs$filt_db$cos_kgha_1, " Kg/ha", "<br>",
+                                "<b>Yield 2:</b>", outs$filt_db$cos_kgha_2, " Kg/ha"),
+                 group = "m1") 
     
   
-})
+  })
   
-
-output$bxplot1 <- renderUI({
-  req(outs$rasts, outs$filt_db)
   
-  tagList(
-    h3("Boxplot rendimiento"),
-    plotOutput("bx1")
+  output$bxplot1 <- renderUI({
+    req(outs$rasts, outs$filt_db)
     
-  )
-})
-
-output$bx1 <- renderPlot({
-  req(outs$rasts, outs$filt_db)
-  to_plot <- outs$filt_db
-  to_plot$vals <- terra::extract(outs$rasts$r_bin, to_plot[, c("lon", "lat")] )[,2]
-  to_plot$vals <- ifelse(to_plot$vals == 0, "Por debajo", "Por arriba")
-  
-  to_plot %>% 
-    ggplot()+
-    geom_boxplot(aes(x = vals, y = cos_kgha_2, group = vals, fill = vals))+
-    scale_fill_manual(values =  c("#41b6c4", "#fed98e"))+
-    xlab("Clasificiación de la Precipitación")+
-    ylab("Rendimiento (Kg/ha)")+
-    theme_bw()
-  
-})
-
-observeEvent(c(input$map1_marker_click, input$slider1), {
-  #req(outs$filt_db)
-  req(input$map1_marker_click)
-  
-  clicked_mrk <- input$map1_marker_click
-  tble <- outs$filt_db
-  tble$clicked <- FALSE
-  tble[tble$id == clicked_mrk$id, "clicked"] <- TRUE
-  
-  outs$rasts <- my_function(pnts = tble, 
-                            gd = clicked_mrk$id, 
-                            chrp = r1, 
-                            mnts = mnts, 
-                            percentile = input$slider1)
-  
-  
-  
-  r1 <- raster::raster(outs$rasts$r_cont)
-  pal1 <- colorNumeric(palette = c("#f0f9e8",
-                         "#bae4bc",
-                         "#7bccc4",
-                         "#43a2ca",
-                         "#0868ac"),
-                      values(r1),
-                      na.color = "transparent")
-  
-  r2 <- raster::raster(outs$rasts$r_bin)
-  r2[is.nan(r2)] <- NA
-  r2 <- raster::as.factor(r2)
-  pal2 <- colorFactor (palette = c("#fed98e", "#41b6c4"),values(r2),
-                       na.color = "transparent")
-  
-  pal2.1 <- colorFactor (palette = c("#fed98e", "#41b6c4"),ifelse(values(r2) == 0 , "Por debajo", "Por encima"),
-                       na.color = "transparent")
-
-  
-  leafletProxy("map1") %>% 
-    clearGroup( group = "m1") %>% 
-    clearGroup( group = "m2") %>%
-    clearGroup( group = "Prec cont") %>%
-    clearGroup( group = "Prec class") %>%
-    clearControls() %>% 
-    addMarkers(layerId =  tble$id,
-               lng = tble$lon, 
-               lat = tble$lat, 
-               popup = paste0('<b>Locality:</b> ', tble$dpto, "<br>", 
-                              "<b>Floration month:</b>", tble$month_floracion, "<br>",
-                              "<b>Yield 1:</b>", tble$cos_kgha_1, " Kg/ha", "<br>",
-                              "<b>Yield 2:</b>", tble$cos_kgha_2, " Kg/ha"),
-               group = "m1") %>% 
-    removeMarker(layerId = clicked_mrk$id) %>% 
-    addAwesomeMarkers(
-      lng = clicked_mrk$lng,
-      lat = clicked_mrk$lat,
-      layerId = clicked_mrk$id,
-      group = "m2",
-      popup = paste0('<b>Locality:</b> ', tble$dpto, "<br>", 
-                     "<b>Floration month:</b>", tble$month_floracion, "<br>",
-                     "<b>Yield 1:</b>", tble$cos_kgha_1, " Kg/ha", "<br>",
-                     "<b>Yield 2:</b>", tble$cos_kgha_2, " Kg/ha" ),
-      icon = awesomeIcons(
-        icon = 'ios-close',
-        iconColor = 'white',
-        library = 'ion',
-        markerColor = "red"
-      )) %>% 
-    addRasterImage(r2, colors = pal2, opacity = 0.8, group = "Prec class") %>%
-    addLegend(pal = pal2.1, values = ifelse(values(r2) == 0 , "Por debajo", "Por encima"),
-              title = "Precipitation binary") %>% 
-    addRasterImage(r1, colors = pal1, opacity = 0.8, group = "Prec cont") %>%
-    addLegend(pal = pal1, values = values(r1),
-              title = "Precipitation (mm)") %>% 
-    addLayersControl(
-      baseGroups = c("Prec class", "Prec cont"),
-      options = layersControlOptions(collapsed = FALSE)
+    tagList(
+      h3("Boxplot rendimiento"),
+      plotOutput("bx1")
+      
     )
+  })
+
+  output$bx1 <- renderPlot({
+    req(outs$rasts, outs$filt_db)
+    to_plot <- outs$filt_db
+    to_plot$vals <- terra::extract(outs$rasts$r_bin, to_plot[, c("lon", "lat")] )[,2]
+    to_plot$vals <- ifelse(to_plot$vals == 0, "Por debajo", "Por arriba")
     
+    to_plot %>% 
+      ggplot()+
+      geom_boxplot(aes(x = vals, y = cos_kgha_2, group = vals, fill = vals))+
+      scale_fill_manual(values =  c("#41b6c4", "#fed98e"))+
+      xlab("Clasificiación de la Precipitación")+
+      ylab("Rendimiento (Kg/ha)")+
+      theme_bw()
+    
+  })
+
+  observeEvent(c(input$map1_marker_click, input$slider1), {
+    #req(outs$filt_db)
+    req(input$map1_marker_click)
+    
+    clicked_mrk <- input$map1_marker_click
+    tble <- outs$filt_db
+    tble$clicked <- FALSE
+    tble[tble$id == clicked_mrk$id, "clicked"] <- TRUE
+    
+    outs$rasts <- my_function(pnts = tble, 
+                              gd = clicked_mrk$id, 
+                              chrp = r1, 
+                              mnts = mnts, 
+                              percentile = input$slider1)
+    
+    
+    
+    r1 <- raster::raster(outs$rasts$r_cont)
+    pal1 <- colorNumeric(palette = c("#f0f9e8",
+                           "#bae4bc",
+                           "#7bccc4",
+                           "#43a2ca",
+                           "#0868ac"),
+                        values(r1),
+                        na.color = "transparent")
+    
+    r2 <- raster::raster(outs$rasts$r_bin)
+    r2[is.nan(r2)] <- NA
+    r2 <- raster::as.factor(r2)
+    pal2 <- colorFactor (palette = c("#fed98e", "#41b6c4"),values(r2),
+                         na.color = "transparent")
+    
+    pal2.1 <- colorFactor (palette = c("#fed98e", "#41b6c4"),ifelse(values(r2) == 0 , "Por debajo", "Por encima"),
+                         na.color = "transparent")
   
-})
- 
-  
-  
+    
+    leafletProxy("map1") %>% 
+      clearGroup( group = "m1") %>% 
+      clearGroup( group = "m2") %>%
+      clearGroup( group = "Prec cont") %>%
+      clearGroup( group = "Prec class") %>%
+      clearControls() %>% 
+      addMarkers(layerId =  tble$id,
+                 lng = tble$lon, 
+                 lat = tble$lat, 
+                 popup = paste0('<b>Locality:</b> ', tble$dpto, "<br>", 
+                                "<b>Floration month:</b>", tble$month_floracion, "<br>",
+                                "<b>Yield 1:</b>", tble$cos_kgha_1, " Kg/ha", "<br>",
+                                "<b>Yield 2:</b>", tble$cos_kgha_2, " Kg/ha"),
+                 group = "m1") %>% 
+      removeMarker(layerId = clicked_mrk$id) %>% 
+      addAwesomeMarkers(
+        lng = clicked_mrk$lng,
+        lat = clicked_mrk$lat,
+        layerId = clicked_mrk$id,
+        group = "m2",
+        popup = paste0('<b>Locality:</b> ', tble$dpto, "<br>", 
+                       "<b>Floration month:</b>", tble$month_floracion, "<br>",
+                       "<b>Yield 1:</b>", tble$cos_kgha_1, " Kg/ha", "<br>",
+                       "<b>Yield 2:</b>", tble$cos_kgha_2, " Kg/ha" ),
+        icon = awesomeIcons(
+          icon = 'ios-close',
+          iconColor = 'white',
+          library = 'ion',
+          markerColor = "red"
+        )) %>% 
+      addRasterImage(r2, colors = pal2, opacity = 0.8, group = "Prec class") %>%
+      addLegend(pal = pal2.1, values = ifelse(values(r2) == 0 , "Por debajo", "Por encima"),
+                title = "Precipitation binary") %>% 
+      addRasterImage(r1, colors = pal1, opacity = 0.8, group = "Prec cont") %>%
+      addLegend(pal = pal1, values = values(r1),
+                title = "Precipitation (mm)") %>% 
+      addLayersControl(
+        baseGroups = c("Prec class", "Prec cont"),
+        options = layersControlOptions(collapsed = FALSE)
+      )
+      
+    
+  })
  
   
 }
