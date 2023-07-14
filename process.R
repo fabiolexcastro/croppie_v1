@@ -47,12 +47,9 @@ write.csv(tble, 'www/cropie_data_v2.csv', row.names = FALSE)
 
 # Read the table ----------------------------------------------------------
 tble <- suppressMessages(read_csv('www/cropie_data_v2.csv'))
-r1 <- terra::rast('www/chirps_1981-2022_v2.tif')
+# r1 <- terra::rast('www/chirps_1981-2022_v2.tif')
 cl <- as_tibble(terra::as.data.frame(r1, xy = T))
-
 table(tble$Cooperativa)
-hist(tble$cosecha_ha_anoanterior_2)
-hist(tble$cosecha_ha_anoanterior)
 
 pnts <- tble
 pnts <- mutate(pnts, gid = 1:nrow(pnts), .before = Cooperativa)
@@ -64,8 +61,8 @@ mnts <- tibble(month_floracion = c('enero', 'febrero', 'marzo', 'abril', 'mayo',
 my_function <- function(month = 'octubre', pnts = pnts, gd = 23, chrp = r1, percentile = 0.8){
   
   # month <- 'octubre'
-  # gd <- 23
-  # percentile <- 0.6
+  # gd <- 31
+  # percentile <- 0.83
   
   pnt <- filter(pnts, month_floracion == month)
   pnt <- filter(pnt, gid == gd)
@@ -98,7 +95,9 @@ my_function <- function(month = 'octubre', pnts = pnts, gd = 23, chrp = r1, perc
   
   stk.all <- c(act_cont, stk.prc)
   names(stk.all) <- c('act', 'prc')
+  # system.time(
   rcl <- stk.all %>% terra::as.data.frame(., xy = T) %>% as_tibble() %>% mutate(rcl = ifelse(act < prc, 0, 1)) %>% dplyr::select(., 1, 2, 5) %>% rast(., type = 'xyz')
+  # )
   plot(rcl)
   
   # Return 
@@ -119,7 +118,8 @@ my_function <- function(month = 'octubre', pnts = pnts, gd = 23, chrp = r1, perc
       
 }
 
+# system.time(
 my_function(month = 'octubre', pnts = pnts, gd = 23, chrp = r1, percentile = 0.8)
-
+# )
 
 
