@@ -1,0 +1,655 @@
+,Cooperativa,dpto,PROVINCIA,dstr,lon,lat,cos_kgha_1,cos_kgha_2,month_floracion,date_start,date_end,date_hrvs
+1,norandino,Lambayeque,Ferreñafe,Kañariz,-79.4745353,-6.0915894,10,10,agosto,3/12/2022,3/12/2022,6/30/2022
+2,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4751673,-6.090494,10,15,octubre,3/12/2022,3/12/2022,NA
+3,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4758062,-6.0848778,9.33,14,septiembre,3/12/2022,3/12/2022,8/1/2022
+4,norandino,Lambayeque,Lambayeque,Salas,-79.475172,-6.103797,4,10,julio,3/13/2022,3/13/2022,5/20/2022
+5,norandino,Lambayeque,Lambayeque,Salas,-79.4779552,-6.0979908,3,3,septiembre,3/13/2022,3/13/2022,8/4/2022
+6,norandino,Lambayeque,Lambayeque,Salas,-79.4797403,-6.0964958,5,7,septiembre,3/13/2022,3/13/2022,5/15/2022
+7,norandino,Lambayeque,Lambayeque,Salas,-79.4693444,-6.1010123,5,15,septiembre,3/13/2022,3/14/2022,4/15/2022
+8,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4794412,-6.0865895,8,6,septiembre,3/12/2022,3/14/2022,7/13/2020
+9,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4799435,-6.0865345,22.22,20,septiembre,3/12/2022,3/14/2022,6/11/2019
+10,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4802964,-6.0876904,5.2,13,septiembre,3/12/2022,3/14/2022,7/11/2019
+11,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4780967,-6.0887497,20,10,septiembre,3/12/2022,3/12/2022,7/18/2019
+12,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4779906,-6.0884808,24.0942029,5,septiembre,3/12/2022,3/12/2022,7/17/2020
+13,norandino,Lambayeque,Lambayeque,Salas,-79.4730876,-6.0988009,12.67,19,septiembre,3/13/2022,3/13/2022,7/9/2015
+14,norandino,Lambayeque,Lambayeque,Salas,-79.473691,-6.0978441,20,10,septiembre,3/13/2022,3/13/2022,7/14/2016
+15,norandino,Lambayeque,Lambayeque,Salas,-79.4727511,-6.0971762,17.33,13,septiembre,3/13/2022,3/13/2022,7/19/2012
+16,norandino,Lambayeque,Lambayeque,Salas,-79.4723875,-6.0990251,9.33,7,septiembre,3/13/2022,3/13/2022,7/12/2012
+17,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.48587,-6.1500633,20,20,noviembre,3/13/2022,3/13/2022,8/1/2018
+18,norandino,Lambayeque,Lambayeque,Salas,-79.4945266,-6.1709156,3,3,septiembre,3/13/2022,3/16/2022,7/15/2021
+19,norandino,Lambayeque,Lambayeque,Salas,-79.5191317,-6.2210151,24,6,septiembre,3/15/2022,3/16/2022,6/1/2022
+20,norandino,Lambayeque,Lambayeque,Salas,-79.5161168,-6.1296078,8,8,septiembre,3/14/2022,3/16/2022,6/1/2022
+21,norandino,Lambayeque,Lambayeque,Salas,-79.5145571,-6.130407,10,20,septiembre,3/14/2022,3/16/2022,5/20/2022
+22,norandino,Lambayeque,Lambayeque,Salas,-79.5169829,-6.1293823,6,6,septiembre,3/14/2022,3/16/2022,6/1/2022
+23,norandino,Lambayeque,Lambayeque,Salas,-79.483975,-6.169878,4,3,octubre,3/16/2022,3/16/2022,6/1/2022
+24,norandino,Lambayeque,Lambayeque,Salas,-79.4863594,-6.170851,12,12,septiembre,3/16/2022,3/16/2022,6/1/2022
+25,norandino,Lambayeque,Ferreñafe,Cañaris,-79.5410049,-6.0062724,47.62,30,septiembre,3/17/2022,3/17/2022,7/13/2017
+26,norandino,Lambayeque,Ferreñafe,Cañaris,-79.5405314,-6.0048699,30,30,septiembre,3/17/2022,3/17/2022,7/20/2017
+27,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5433841,-6.0016956,8,8,septiembre,3/16/2022,3/16/2022,6/12/2014
+28,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5351902,-6.0023766,13,13,septiembre,3/16/2022,3/16/2022,7/10/2020
+29,norandino,Lambayeque,Ferreñafe,Cañaris,-79.5333097,-6.0028035,13,26,septiembre,3/16/2022,3/17/2022,7/11/2013
+30,norandino,Piura,Huancabamba,Lalaquiz,-79.6398871,-5.1967754,10,30,octubre,3/16/2022,3/17/2022,6/1/2022
+31,norandino,Piura,Huancabamba,Lalaquiz,-79.6418958,-5.193355,26,52,octubre,3/16/2022,3/17/2022,6/2/2022
+32,norandino,Piura,Huancabamba,Lalaquiz,-79.6418491,-5.19337,55,55,octubre,3/16/2022,3/17/2022,6/1/2022
+33,norandino,Piura,Huancabamba,Lalaquiz,-79.6471325,-5.1961789,27,27,octubre,3/16/2022,3/16/2022,6/1/2022
+34,norandino,Piura,Huancabamba,Lalaquiz,-79.6425408,-5.1968413,23.2,58,octubre,3/17/2022,3/17/2022,6/1/2022
+35,norandino,Piura,Huancabamba,Lalaquiz,-79.6431388,-5.1965138,13.8,1.25,septiembre,3/17/2022,3/17/2022,NA
+36,norandino,Piura,Huancabamba,Lalaquiz,-79.6438448,-5.1959524,13.33,40,octubre,3/17/2022,3/17/2022,6/1/2022
+37,norandino,Piura,Huancabamba,Lalaquiz,-79.6439938,-5.195669,19,38,octubre,3/17/2022,3/17/2022,6/1/2022
+38,norandino,Piura,Huancabamba,Lalaquiz,-79.6449932,-5.1918715,10,10,octubre,3/17/2022,3/17/2022,6/1/2022
+39,norandino,Piura,Huancabamba,Lalaquiz,-79.6420577,-5.1934427,26.99275362,26.99275362,septiembre,3/16/2022,3/17/2022,NA
+40,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4856172,-6.1493757,5.66,3,septiembre,3/15/2022,3/16/2022,8/1/2019
+41,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4805503,-6.1480071,42.86,15,octubre,3/16/2022,3/17/2022,7/20/2017
+42,norandino,Lambayeque,Lambayeque,Salas,-79.4900265,-6.1737459,16,4,septiembre,3/16/2022,3/18/2022,7/1/2022
+43,norandino,Lambayeque,Lambayeque,Salas,-79.4909136,-6.1699529,20,15,septiembre,3/16/2022,3/18/2022,6/2/2022
+44,norandino,Lambayeque,Lambayeque,Salas,-79.4932626,-6.1708001,12,3,septiembre,3/16/2022,3/18/2022,6/1/2022
+45,norandino,Lambayeque,Lambayeque,Salas,-79.4979328,-6.1726837,8,8,septiembre,3/18/2022,3/18/2022,NA
+46,norandino,Piura,Huancabamba,Lalaquiz,-79.6376085,-5.1933168,9.5,38,octubre,3/18/2022,3/18/2022,NA
+47,norandino,Piura,Huancabamba,Lalaquiz,-79.6374661,-5.1931454,52.67,1.43115942,septiembre,3/18/2022,3/18/2022,6/1/2022
+48,norandino,Piura,Huancabamba,Lalaquiz,-79.6409095,-5.1906492,10,20,octubre,3/18/2022,3/18/2022,6/1/2022
+49,norandino,Piura,Huancabamba,Lalaquiz,-79.6410789,-5.1913034,17.5,1.268115942,octubre,3/18/2022,3/18/2022,6/1/2022
+50,norandino,Piura,Huancabamba,Lalaquiz,-79.6431838,-5.1927524,25.71,1.630434783,octubre,3/18/2022,3/18/2022,6/1/2022
+51,norandino,Lambayeque,Lambayeque,Salas,-79.4954578,-6.1789651,20,5,septiembre,3/18/2022,3/18/2022,6/1/2022
+52,norandino,Lambayeque,Lambayeque,Salas,-79.4956826,-6.1786746,10,5,septiembre,3/18/2022,3/18/2022,6/1/2022
+53,norandino,Lambayeque,Lambayeque,Salas,-79.4999313,-6.1756214,10,5,septiembre,3/18/2022,3/18/2022,NA
+54,norandino,Lambayeque,Lambayeque,Salas,-79.4987488,-6.1770646,36,18,septiembre,3/18/2022,3/18/2022,6/15/2022
+55,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4863129,-6.1480159,6,3,noviembre,3/15/2022,3/17/2022,7/22/2021
+56,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4742824,-6.146841,6,6,noviembre,3/17/2022,3/17/2022,7/29/2020
+57,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4773579,-6.1483269,7,7,noviembre,3/17/2022,3/17/2022,8/3/2020
+58,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4792566,-6.1378972,9.33,7,octubre,3/18/2022,3/18/2022,8/2/2016
+59,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4800093,-6.1407453,10,5,septiembre,3/18/2022,3/18/2022,8/25/2018
+60,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4793864,-6.1438906,9.33,7,octubre,3/18/2022,3/18/2022,7/30/2016
+61,norandino,Lambayeque,Ferreñafe,Kañaris,-79.4758522,-6.0802395,26.67,20,septiembre,3/12/2022,3/17/2022,7/16/2018
+62,norandino,Lambayeque,Lambayeque,Salas,-79.4738383,-6.0973668,6.67,5,septiembre,3/13/2022,3/17/2022,7/18/2019
+63,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5373913,-6.0037384,12,12,septiembre,3/17/2022,3/17/2022,7/20/2018
+64,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5236383,-6.0223267,25,25,septiembre,3/18/2022,3/18/2022,7/25/2019
+65,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5340105,-6.0170188,29.27,30,septiembre,3/18/2022,3/18/2022,8/1/2018
+66,norandino,Piura,Huancabamba,Lalaquiz,-79.647489,-5.1989949,11.5,23,octubre,3/19/2022,3/19/2022,6/1/2022
+67,norandino,Piura,Huancabamba,Lalaquiz,-79.6497136,-5.1999799,10,10,septiembre,3/19/2022,3/19/2022,6/1/2022
+68,norandino,Piura,Huancabamba,Lalaquiz,-79.6487838,-5.2014065,7.5,15,septiembre,3/19/2022,3/19/2022,6/1/2022
+69,norandino,Piura,Huancabamba,Lalaquiz,-79.6473017,-5.2013996,5.5,11,septiembre,3/19/2022,3/19/2022,6/1/2022
+70,norandino,Piura,Huancabamba,Lalaquiz,-79.6468229,-5.201452,20,50,septiembre,3/19/2022,3/19/2022,6/1/2022
+71,pangoa,Junin,Satipo,Pangoa,-74.53896,-11.4696962,8.75,1.394927536,septiembre,3/18/2022,3/19/2022,4/15/2015
+72,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4847854,-6.1471175,10,10,septiembre,3/15/2022,3/19/2022,7/17/2021
+73,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4764437,-6.144688,4,3,septiembre,3/18/2022,3/19/2022,8/3/2019
+74,norandino,Piura,Huancabamba,Lalaquiz,-79.6494811,-5.1789391,30,60,septiembre,3/21/2022,3/21/2022,7/1/2022
+75,norandino,Piura,Huancabamba,Lalaquiz,-79.6455149,-5.1852267,15,30,octubre,3/21/2022,3/21/2022,6/1/2022
+76,norandino,Piura,Huancabamba,Lalaquiz,-79.6456496,-5.1858138,20,50,septiembre,3/21/2022,3/21/2022,3/21/2022
+77,norandino,Piura,Huancabamba,Lalaquiz,-79.6445914,-5.1868639,10,20,septiembre,3/21/2022,3/21/2022,6/1/2022
+78,norandino,Piura,Huancabamba,Lalaquiz,-79.6451506,-5.1889927,13,1.177536232,septiembre,3/21/2022,3/21/2022,3/21/2022
+79,norandino,Lambayeque,Lambayeque,Salas,-79.4850761,-6.0380095,10,5,septiembre,3/20/2022,3/21/2022,7/14/2022
+80,norandino,Lambayeque,Lambayeque,Salas,-79.4852518,-6.0386035,6,6,septiembre,3/20/2022,3/20/2022,7/9/2020
+81,norandino,Lambayeque,Lambayeque,Salas,-79.4999957,-6.0203527,20,10,septiembre,3/20/2022,3/20/2022,7/16/2020
+82,norandino,Lambayeque,Lambayeque,Salas,-79.5003693,-6.0288315,15,15,septiembre,3/20/2022,3/21/2022,7/11/2019
+83,norandino,Lambayeque,Lambayeque,Distrito,-79.4989393,-6.0341339,20,5,septiembre,3/21/2022,3/21/2022,7/11/2019
+84,norandino,Lambayeque,Ferreñafe,Kañaris,-79.510136,-6.0237771,20,10,septiembre,3/19/2022,3/21/2022,7/17/2014
+85,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4759073,-6.1477157,3,3,octubre,3/20/2022,3/20/2022,8/25/2016
+86,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5497292,-5.9991168,2.14,3,octubre,3/16/2022,3/16/2022,7/31/2022
+87,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5500379,-5.9999216,12,6,octubre,3/16/2022,3/16/2022,7/31/2022
+88,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5506558,-6.0021277,0,0,septiembre,3/16/2022,3/16/2022,7/9/2022
+89,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5464452,-6.0033431,47.95,35,octubre,3/17/2022,3/17/2022,5/30/2022
+90,norandino,Departamento,Ferreñafe,Kañariz,-79.5481431,-6.0052818,12,6,septiembre,3/17/2022,3/17/2022,6/2/2022
+91,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5486167,-6.0029127,25,25,septiembre,3/17/2022,3/17/2022,5/1/2022
+92,norandino,"Lambayeque
+",Ferreñafe,Kañaris,-79.5435584,-6.0047252,4.12,14,septiembre,3/17/2022,3/17/2022,7/1/2022
+93,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5440184,-6.0049471,40,10,septiembre,3/17/2022,3/17/2022,6/16/2022
+94,norandino,Lambayeque @@,Ferreñafe,Kañaris,-79.5456166,-6.0081212,13.33,20,octubre,3/17/2022,3/17/2022,6/3/2022
+95,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5433379,-6.0097688,20,20,octubre,3/17/2022,3/17/2022,8/1/2022
+96,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5322448,-6.0044417,15,30,octubre,3/18/2022,3/18/2022,6/2/2022
+97,norandino,Lambayeque,Ferreñafe,Kañaris,-79.53636,-6.0086867,18,9,octubre,3/18/2022,3/18/2022,7/1/2022
+98,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5382082,-6.0089879,15,15,septiembre,3/18/2022,3/18/2022,7/1/2022
+99,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5307218,-6.0171816,42.86,30,octubre,3/18/2022,3/18/2022,5/2/2022
+100,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5348366,-6.0176192,24.67,37,octubre,3/18/2022,3/18/2022,6/1/2022
+101,norandino,Lambayeque,Ferreñafe,Kañaris,-79.5099874,-6.0216968,5,5,septiembre,3/19/2022,3/19/2022,7/1/2022
+102,norandino,Lambayeque,Lambayeque,Salas,-79.5037432,-6.0190102,4,4,octubre,3/19/2022,3/20/2022,6/4/2022
+103,norandino,Lambayeque,Lambayeque,Salas,-79.5067113,-6.023347,0,0,noviembre,3/19/2022,3/20/2022,7/1/2022
+104,norandino,Lambayeque,Lambayeque,Salas,-79.5079235,-6.0232817,5,5,octubre,3/20/2022,3/20/2022,5/1/2022
+105,norandino,Lambayeque,Lambayeque,Salas,-79.5053115,-6.0210808,2,18.11594203,octubre,3/20/2022,3/20/2022,6/1/2022
+106,norandino,Lambayeque,Lambayeque,Salas,-79.5033433,-6.0213618,8,4,octubre,3/20/2022,3/20/2022,3/1/2022
+107,norandino,Lambayeque,Lambayeque,Salas,-79.503413,-6.0189521,2,18.11594203,octubre,3/20/2022,3/20/2022,6/1/2022
+108,norandino,Lambayeque,Lambayeque,Salas,-79.5015848,-6.0189912,10,5,octubre,3/20/2022,3/20/2022,6/1/2022
+109,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4747019,-6.1457156,8,8,noviembre,3/18/2022,3/22/2022,7/23/2011
+110,pangoa,Junin,Satipo,Pangoa,-74.5043963,-11.3737973,19.8,1.793478261,octubre,3/18/2022,3/22/2022,4/1/2017
+111,pangoa,Junin,Satipo,Pangoa,-74.5470945,-11.4808004,6.43,1.630434783,septiembre,3/18/2022,3/22/2022,3/18/2016
+112,pangoa,Junin,Satipo,Pangoa,-74.5441846,-11.4945635,26.67,1.449275362,octubre,3/18/2022,3/21/2022,4/15/2016
+113,pangoa,Junin,Satipo,Pangoa,-74.5271726,-11.4841208,10,30,septiembre,3/19/2022,3/22/2022,4/6/2015
+114,pangoa,Junin,Satipo,Pangoa,-74.5347317,-11.4943936,13.33,40,septiembre,3/19/2022,3/22/2022,4/7/2015
+115,pangoa,Junín,Satipo,Pangoa,-74.4791126,-11.4750277,10.73,59,septiembre,3/19/2022,3/22/2022,3/19/2015
+116,pangoa,Junín,Satipo,Pangoa,-74.5133942,-11.4995874,13.14,46,octubre,3/21/2022,3/22/2022,4/10/2017
+117,pangoa,Junín,Satipo,Pangoa,-74.5129663,-11.5203992,13,26,octubre,3/21/2022,3/22/2022,5/9/2016
+118,pangoa,Junín,Satipo,Pangoa,-74.5060597,-11.5028653,11.85,1.394927536,octubre,3/21/2022,3/21/2022,5/5/2014
+119,pangoa,Junín,Satipo,Pangoa,-74.3724723,-11.6984401,18.57,1.177536232,septiembre,3/21/2022,3/21/2022,4/25/2016
+120,pangoa,Junín,Satipo,Pangoa,-74.39224,-11.6637888,26.29,1.666666667,octubre,3/21/2022,3/21/2022,4/23/2018
+121,pangoa,Junín,Satipo,Pangoa,-74.3705236,-11.6488181,7,14,octubre,3/21/2022,3/21/2022,4/18/2016
+122,pangoa,Junín,Satipo,Pangoa,-74.4724053,-11.5512504,16,16,agosto,3/22/2022,3/22/2022,3/24/2015
+123,pangoa,Junin,Satipo,Pangoa,-74.4785604,-11.5517109,2.22,10,agosto,3/22/2022,3/22/2022,4/6/2015
+124,pangoa,Junín,Satipo,Pangoa,-74.4871751,-11.5534766,5.71,20,octubre,3/22/2022,3/22/2022,4/1/2008
+125,pangoa,Junín,Satipo,Pangoa,-74.4870608,-11.5538726,13.33,20,septiembre,3/22/2022,3/22/2022,4/11/2016
+126,pangoa,Junin,Satipo,Pangoa,-74.5069688,-11.5659161,20,50,octubre,3/22/2022,3/22/2022,4/13/2015
+127,pangoa,Junín,Satipo,Pangoa,-74.5116645,-11.5694025,13.6,34,octubre,3/22/2022,3/22/2022,4/6/2015
+128,pangoa,Junin,Satipo,Pangoa,-74.5304246,-11.4885606,20,40,octubre,3/22/2022,3/22/2022,4/14/2022
+129,pangoa,Junin,"Satipo
+",Pangoa,-74.4962305,-11.5626543,5,20,octubre,3/18/2022,3/23/2022,4/13/2022
+130,pangoa,Junin,Satipo,Pangoa,-74.4966673,-11.5671408,6,54,octubre,3/19/2022,3/23/2022,4/8/2022
+131,pangoa,Junin,Huancayo,SantoDomingo de Acobamba,-74.5149304,-11.5692824,4.29,30,octubre,3/21/2022,3/23/2022,4/4/2022
+132,pangoa,Junín,Satipo,Pangoa,-74.4928077,-11.5641079,5,15,octubre,3/21/2022,3/23/2022,4/15/2022
+133,pangoa,Junín,Satipo,PANGOA,-74.4749759,-11.5771851,2.86,20,octubre,3/21/2022,3/23/2022,4/15/2022
+134,pangoa,Junín,Satipo,PANGOA,-74.5355251,-11.4965301,7.5,15,noviembre,3/22/2022,3/23/2022,4/10/2022
+135,pangoa,Junin,Satipo,San Martin,-74.534646,-11.4915044,22.5,45,octubre,3/22/2022,3/23/2022,4/20/2022
+136,pangoa,Junin,Satipo,Pangoa,-74.5335004,-11.4928878,5,20,octubre,3/22/2022,3/23/2022,5/6/2022
+137,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4715589,-6.1739317,4,4,octubre,3/23/2022,3/23/2022,7/22/2016
+138,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.471352,-6.1742416,15.38,2,septiembre,3/23/2022,3/23/2022,8/10/2018
+139,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4733247,-6.1743244,6,3,octubre,3/23/2022,3/23/2022,8/21/2020
+140,pangoa,Junín,Satipo,Pangoa,-74.4946402,-11.562013,5,15,octubre,3/19/2022,3/24/2022,4/15/2022
+141,pangoa,Junin,Satipo,"Pangoa 
+
+",-74.5367842,-11.4647124,6.67,30,septiembre,3/23/2022,3/23/2022,3/29/2022
+142,pangoa,Junin,Satipo,Pangoa,-74.5266311,-11.4604943,7,7,agosto,3/23/2022,3/23/2022,3/29/2022
+143,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4860645,-6.1489327,3,3,octubre,3/15/2022,3/23/2022,8/20/2020
+144,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4838712,-6.1491626,6.67,5,septiembre,3/20/2022,3/23/2022,8/1/2015
+145,norandino,PIURA,HUANCABAMBA,CANCHAQUE,-79.6076844,-5.2620811,8,8,septiembre,3/24/2022,3/24/2022,8/15/2013
+146,norandino,Piura,Huamcabamba,Lalaquiz,-79.6971421,-5.1664552,10,5,octubre,3/24/2022,3/24/2022,NA
+147,norandino,Piura,Huamcabamba,Lalaquiz,-79.6770868,-5.1669546,50,25,octubre,3/24/2022,3/24/2022,NA
+148,norandino,Piura,Huamcabamba,Lalaquiz,-79.6771346,-5.1663253,40,20,octubre,3/24/2022,3/24/2022,NA
+149,norandino,Piura,Huamcabamba,Lalaquiz,-79.6767198,-5.168018,40,40,octubre,3/24/2022,3/24/2022,NA
+150,norandino,Piura,Huamcabamba,Lalaquiz,-79.676012,-5.1725234,50,25,octubre,3/24/2022,3/24/2022,NA
+151,norandino,Piura,Huamcabamba,Lalaquiz,-79.6755575,-5.1719788,17,17,octubre,3/24/2022,3/24/2022,NA
+152,norandino,PIURA,HUANCABAMBA,CANCHAQUE,-79.6077672,-5.2625218,33.33,50,septiembre,3/24/2022,3/25/2022,3/24/2018
+153,norandino,PIURA,HUANCABAMBA,CANCHAQUE,-79.6097616,-5.2640954,12,12,septiembre,3/24/2022,3/25/2022,6/19/2015
+154,norandino,Piura,Huancabamba,Lalaquiz,-79.6805851,-5.2022678,12,3,noviembre,3/17/2022,3/17/2022,6/3/2022
+155,norandino,Piura,Huancabamba,Lalaquiz,-79.6790818,-5.2013442,10,5,noviembre,3/17/2022,3/17/2022,6/10/2022
+156,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4813241,-6.1485372,6,6,octubre,3/23/2022,3/25/2022,7/25/2015
+157,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4843047,-6.1457737,7.33,11,noviembre,3/23/2022,3/25/2022,8/13/2020
+158,norandino,Piura,Huancabamba,Canchaque,-79.6336075,-5.2025413,8,8,octubre,3/12/2022,3/20/2022,5/15/2021
+159,norandino,Piura,Huancabamba,Canchaque,-79.6334684,-5.2024051,6,6,octubre,3/12/2022,3/21/2022,6/15/2022
+160,norandino,Piura,Huancabamba,Canchaque,-79.6262669,-5.208651,12,30,octubre,3/12/2022,3/20/2022,5/15/2022
+161,norandino,Piura,Huancabamba,Canchaque,-79.6373662,-5.2287604,8,8,octubre,3/13/2022,3/20/2022,5/15/2022
+162,norandino,Piura,Huancabamba,Canchaque,-79.6373681,-5.2264522,15,15,octubre,3/13/2022,3/21/2022,5/15/2022
+163,norandino,Piura,Huancabamba,Canchaque,-79.6188084,-5.1829635,9.6,12,octubre,3/15/2022,3/21/2022,6/15/2022
+164,norandino,Piura,Huancabamba,Canchaque,-79.6081323,-5.2087431,15,15,octubre,3/18/2022,3/21/2022,6/15/2022
+165,norandino,Piura,Huancabamba,Canchaque,-79.6090807,-5.2090761,14,35,octubre,3/18/2022,3/21/2022,6/15/2022
+166,norandino,Piura,Huancabamba,Canchaque,-79.60835,-5.2084946,17,17,octubre,3/18/2022,3/22/2022,6/15/2022
+167,norandino,Piura,Huancabamba,Canchaque,-79.6397395,-5.2152466,9.33,7,octubre,3/17/2022,3/21/2022,4/15/2022
+168,norandino,Piura,Huancabamba,Canchaque,-79.6408458,-5.2162032,7,7,octubre,3/17/2022,3/21/2022,4/15/2022
+169,norandino,Piura,Huancabamba,Canchaque,-79.636106,-5.2099605,10,5,octubre,3/17/2022,3/21/2022,5/15/2022
+170,norandino,Piura,Huancabamba,Canchaque,-79.6374027,-5.2112718,12,12,octubre,3/17/2022,3/21/2022,5/15/2022
+171,norandino,Piura,Huancabamba,Canchaque,-79.6190206,-5.222574,12,6,octubre,3/18/2022,3/21/2022,6/15/2022
+172,norandino,Piura,Huancabamba,Canchaque,-79.6297625,-5.2257416,10,30,octubre,3/19/2022,3/21/2022,5/15/2022
+173,norandino,Piura,Huancabamba,Canchaque,-79.6288598,-5.2267558,8,8,octubre,3/19/2022,3/23/2022,5/15/2022
+174,norandino,Piura,Huancabamba,Canchaque,-79.628829,-5.2268001,20,20,octubre,3/19/2022,3/23/2022,5/15/2022
+175,norandino,Piura,Huancabamba,Canchaque,-79.6289726,-5.2234924,19,19,octubre,3/19/2022,3/23/2022,5/15/2022
+176,norandino,Piura,Huancabamba,Canchaque,-79.6310442,-5.2184355,20,40,octubre,3/19/2022,3/24/2022,6/15/2022
+177,norandino,Piura,Huancabamba,Canchaque,-79.6184753,-5.209001,22.5,45,octubre,3/20/2022,3/20/2022,NA
+178,norandino,Piura,Huancabamba,Canchaque,-79.631615,-5.2183554,16,8,octubre,3/24/2022,3/24/2022,5/15/2022
+179,norandino,Piura,Huancabamba,Canchaque,-79.6360328,-5.207938,10,5,septiembre,3/26/2022,3/24/2022,4/15/2022
+180,norandino,Piura,Huancabamba,Canchaque,-79.635721,-5.208607,5,5,octubre,3/26/2022,3/24/2022,5/15/2022
+181,norandino,Piura,Huancabamba,Canchaque,-79.6347633,-5.2077566,16,8,octubre,3/26/2022,3/24/2022,5/15/2022
+182,norandino,Piura,Huancabamba,Canchaque,-79.6341658,-5.2061879,32,8,septiembre,3/26/2022,3/24/2022,5/15/2022
+183,norandino,Piura,Huancabamba,Canchaque,-79.6297713,-5.2084803,3.53,3,octubre,3/26/2022,3/24/2022,5/15/2022
+184,norandino,Piura,Huancabamba,Canchaque,-79.6276664,-5.2087708,5,5,octubre,3/26/2022,3/24/2022,5/15/2022
+185,norandino,Piura,Huancabamba,Canchaque,-79.6274878,-5.2088141,11.67,35,octubre,3/26/2022,3/24/2022,5/15/2022
+186,norandino,Piura,Huancabamba,Canchaque,-79.6360847,-5.209407,16,4,octubre,3/27/2022,3/24/2022,5/15/2022
+187,norandino,Piura,Huancabamba,Canchaque,-79.6360795,-5.208614,12,18,septiembre,3/27/2022,3/24/2022,5/15/2022
+188,norandino,Piura,Huancabamba,Canchaque,-79.6268043,-5.2135754,12.5,25,octubre,3/24/2022,3/24/2022,5/15/2022
+189,norandino,Piura,Huancabamba,Canchaque,-79.6272242,-5.2136249,7.5,15,septiembre,3/24/2022,3/24/2022,5/15/2022
+190,norandino,Piura,Huancabamba,"Canchaque
+",-79.6223058,-5.1922325,14,35,octubre,3/11/2022,3/20/2022,5/15/2022
+191,norandino,Piura,Huancabamba,Lalaquiz,-79.699352,-5.1672853,26.67,40,diciembre,3/15/2022,3/22/2022,3/15/2022
+192,norandino,Piura,Huancabamba,Lalaquiz,-79.7002823,-5.1679498,10,10,diciembre,3/15/2022,3/22/2022,NA
+193,norandino,Piura,Huancabamba,Lalaquiz,-79.700291,-5.1730608,10,5,octubre,3/15/2022,3/22/2022,NA
+194,norandino,Piura,Huancabamba,Lalaquiz,-79.6962433,-5.174286,8,8,octubre,3/15/2022,3/22/2022,NA
+195,norandino,Piura,Huancabamba,Lalaquiz,-79.6963417,-5.1753288,10,5,octubre,3/16/2022,3/22/2022,NA
+196,norandino,Piura,Huancabamba,Lalaquiz,-79.6967699,-5.1753252,10,5,octubre,3/16/2022,3/22/2022,NA
+197,norandino,Piura,Huancabamba,Lalaquiz,-79.6968793,-5.1755016,6,3,octubre,3/16/2022,3/22/2022,NA
+198,norandino,Piura,Huancabamba,Lalaquiz,-79.6977598,-5.1757524,1.268115942,35,octubre,3/16/2022,3/19/2022,NA
+199,norandino,Piura,Huancabamba,Lalaquiz,-79.6965878,-5.1740828,1.449275362,40,octubre,3/16/2022,3/22/2022,NA
+200,norandino,Piura,Huancabamba,Lalaquiz,-79.6972821,-5.1692357,36,18,octubre,3/17/2022,3/22/2022,NA
+201,norandino,Piura,Huancabamba,Lalaquiz,-79.6925653,-5.1745619,40,20,octubre,3/17/2022,3/22/2022,NA
+202,norandino,Piura,Huancabamba,Lalaquiz,-79.6923148,-5.175449,30,15,octubre,3/17/2022,3/22/2022,NA
+203,norandino,Piura,Huancabamba,Lalaquiz,-79.6927081,-5.1764238,6,3,octubre,3/17/2022,3/22/2022,NA
+204,norandino,Piura,Huancabamba,Lalaquiz,-79.6920776,-5.176292,8,8,octubre,3/17/2022,3/22/2022,NA
+205,norandino,Piura,Huancabamba,Lalaquiz,-79.6940307,-5.1743562,14,7,octubre,3/17/2022,3/22/2022,NA
+206,norandino,Piura,Huancabamba,Lalaquiz,-79.6982372,-5.1791466,17.14,18,octubre,3/18/2022,3/22/2022,NA
+207,norandino,Piura,Huancabamba,Lalaquiz,-79.6983723,-5.1791809,40,40,octubre,3/18/2022,3/19/2022,NA
+208,norandino,Piura,Huamcabamba,Lalaquiz,-79.697444,-5.1692995,10,10,octubre,3/19/2022,3/22/2022,NA
+209,norandino,Piura,Huamcabamba,Lalaquiz,-79.6974279,-5.1683303,28,14,octubre,3/22/2022,3/22/2022,NA
+210,norandino,Piura,Huamcabamba,Lalaquiz,-79.699167,-5.1702732,3.623188406,1.811594203,octubre,3/22/2022,3/22/2022,NA
+211,norandino,Piura,Huamcabamba,Lalaquiz,-79.6875759,-5.1716537,1.449275362,40,octubre,3/25/2022,3/25/2022,NA
+212,norandino,Piura,Huamcabamba,Lalaquiz,-79.6863522,-5.1682723,30,15,octubre,3/25/2022,3/25/2022,NA
+213,norandino,Piura,Huamcabamba,Lalaquiz,-79.6867776,-5.1681415,10,5,octubre,3/25/2022,3/25/2022,NA
+214,norandino,Piura,Huamcabamba,Lalaquiz,-79.687884,-5.1681877,1.811594203,50,octubre,3/25/2022,3/25/2022,NA
+215,norandino,Piura,Huancabamba,Lalaquiz,-79.6816001,-5.1793775,30,60,septiembre,3/25/2022,3/25/2022,6/1/2022
+216,norandino,Piura,Huancabamba,Lalaquiz,-79.6814684,-5.1792825,17,17,septiembre,3/25/2022,3/25/2022,3/25/2022
+217,norandino,Piura,Huancabamba,Lalaquiz,-79.6804675,-5.1785124,12.5,50,septiembre,3/25/2022,3/25/2022,3/25/2022
+218,norandino,Piura,Huancabamba,Lalaquiz,-79.6802883,-5.1779057,25,25,septiembre,3/25/2022,3/25/2022,3/25/2022
+219,norandino,Piura,Huancabamba,Lalaquiz,-79.6806597,-5.1779058,16,40,septiembre,3/25/2022,3/25/2022,3/25/2022
+220,norandino,PIURA,HUANCABAMBA,CANCHAQUE,-79.6188474,-5.2631722,15,15,octubre,3/25/2022,3/25/2022,6/20/2019
+221,norandino,Piura,Huancabamba,Canchaque,-79.6191955,-5.2098786,16,40,octubre,3/22/2022,3/25/2022,5/15/2022
+222,norandino,Piura,Huancabamba,Canchaque,-79.6214733,-5.2109621,17.5,35,octubre,3/22/2022,3/25/2022,5/15/2022
+223,norandino,Piura,Huancabamba,Canchaque,-79.6204708,-5.2068582,2.67,8,octubre,3/22/2022,3/25/2022,5/15/2022
+224,norandino,Piura,Huancabamba,Canchaque,-79.6280987,-5.2146108,8,12,septiembre,3/22/2022,3/25/2022,5/15/2022
+225,norandino,Piura,Huancabamba,Canchaque,-79.6293364,-5.2128152,4,4,octubre,3/24/2022,3/25/2022,5/15/2022
+226,norandino,Piura,Huancabamba,Canchaque,-79.6316195,-5.2088776,5.33,8,octubre,3/26/2022,3/25/2022,5/15/2022
+227,norandino,Piura,Huancabamba,Canchaque,-79.6396589,-5.2123975,11,11,octubre,3/27/2022,3/25/2022,5/15/2022
+228,norandino,Piura,Huancabamba,Canchaque,-79.6359517,-5.2085194,6,12,septiembre,3/27/2022,3/25/2022,5/15/2022
+229,norandino,Piura,Huancabamba,Canchaque,-79.6270281,-5.2144664,7.5,15,octubre,3/24/2022,3/25/2022,5/15/2022
+230,norandino,Piura,Huancabamba,Canchaque,-79.6270809,-5.2137764,10,15,octubre,3/24/2022,3/25/2022,5/15/2022
+231,norandino,Piura,Huancabamba,Canchaque,-79.6272539,-5.2137382,10,20,septiembre,3/24/2022,3/25/2022,5/15/2022
+232,norandino,Piura,Huancabamba,Canchaque,-79.6272796,-5.2133666,8.33,5,octubre,3/24/2022,3/25/2022,5/15/2022
+233,norandino,Piura,Huancabamba,Canchaque,-79.6247928,-5.2137151,12,12,septiembre,3/24/2022,3/25/2022,5/15/2022
+234,norandino,Piura,Huancabamba,Canchaque,-79.624444,-5.2137846,13.33,20,septiembre,3/24/2022,3/25/2022,5/15/2022
+235,norandino,Piura,Huancabamba,Canchaque,-79.623829,-5.2128855,18,18,octubre,3/24/2022,3/25/2022,5/15/2022
+236,norandino,Piura,Huancabamba,Canchaque,-79.6250401,-5.2271463,10.5,21,octubre,3/24/2022,3/25/2022,5/15/2022
+237,norandino,Piura,Huancabamba,Canchaque,-79.6364395,-5.2263413,6.67,10,octubre,3/24/2022,3/25/2022,5/15/2022
+238,norandino,Lambayeque,Lambayeque,Salas,-79.4808906,-6.1689547,10,10,septiembre,3/23/2022,3/23/2022,7/1/2022
+239,norandino,Lambayeque,Lambayeque,Salas,-79.4799913,-6.1692165,4.33,13,septiembre,3/23/2022,3/23/2022,7/1/2022
+240,norandino,Lambayeque,Lambayeque,Salas,-79.4820577,-6.169722,5,5,septiembre,3/23/2022,3/23/2022,3/23/2022
+241,norandino,Lambayeque,Lambayeque,Salas,-79.4827357,-6.1708801,5,5,septiembre,3/23/2022,3/23/2022,7/1/2022
+242,norandino,Lambayeque,Lambayeque,Salas,-79.4822795,-6.1654193,8,8,septiembre,3/23/2022,3/23/2022,7/1/2022
+243,norandino,Piura,HUANCABAMBA,Canchaque,-79.6258272,-5.261804,12,12,noviembre,3/10/2022,3/26/2022,2/15/2017
+244,norandino,PIURA,HUANCABAMBA,Canchaque,-79.6106671,-5.2537446,5,5,septiembre,3/14/2022,3/26/2022,3/14/2018
+245,norandino,PIURA,HUANCABAMBA,CANCHAQUE,-79.6081095,-5.2534664,26,13,octubre,3/26/2022,3/26/2022,5/14/2020
+246,norandino,PIURA,HUANCABAMBA,CANCHAQUE,-79.6040019,-5.2561462,15,15,noviembre,3/27/2022,3/27/2022,6/11/2013
+247,norandino,PIURA,HUANCABAMBA,CANCHAQUE,-79.6048388,-5.2538089,18,18,septiembre,3/27/2022,3/27/2022,5/27/2017
+248,norandino,PIURA,HUANCABAMBA,Canchaque,-79.6050407,-5.255622,10,5,octubre,3/10/2022,3/27/2022,5/5/2018
+249,norandino,Piura,Huancabamba,Lalaquiz,-79.6538661,-5.2172373,14,35,septiembre,3/26/2022,3/26/2022,3/26/2022
+250,norandino,Piura,Huancabamba,Lalaquiz,-79.653152,-5.2132953,6.67,10,septiembre,3/26/2022,3/26/2022,3/26/2022
+251,norandino,Piura,Huancabamba,Lalaquiz,-79.6527926,-5.2121678,10,10,septiembre,3/26/2022,3/26/2022,3/26/2022
+252,norandino,Piura,Huancabamba,Lalaquiz,-79.6489487,-5.2072941,7.33,11,septiembre,3/26/2022,3/26/2022,3/26/2022
+253,norandino,Piura,Huancabamba,Lalaquiz,-79.6488733,-5.2072992,8.67,13,septiembre,3/26/2022,3/26/2022,3/26/2022
+254,pangoa,Junín,Satipo,Pangoa,-74.3761384,-11.3703103,20,2.173913043,octubre,3/25/2022,3/29/2022,4/22/2022
+255,pangoa,Junín,Satipo,Pangoa,-74.5181989,-11.4614213,13.33,40,agosto,3/23/2022,3/24/2022,3/22/2022
+256,pangoa,Junin,Satipo,Pangoa,-74.55361,-11.5009571,5,15,octubre,3/25/2022,3/30/2022,5/20/2022
+257,pangoa,Junin,Satipo,Pangoa,-74.5596014,-11.5078253,10,20,octubre,3/25/2022,3/30/2022,4/29/2022
+258,pangoa,Junin,Satipo,Pangoa,-74.5504465,-11.4845923,2.86,20,septiembre,3/25/2022,3/30/2022,4/5/2022
+259,pangoa,Junin,Satipo,Pangoa,-74.5639558,-11.4886199,16.67,25,octubre,3/25/2022,3/29/2022,4/30/2022
+260,pangoa,Junin,Satipo,Pangoa,-74.571516,-11.4467805,6.67,20,octubre,3/30/2022,3/30/2022,4/22/2022
+261,pangoa,Junín,Satipo,Pangoa,-74.5067077,-11.5661135,4.8,12,septiembre,3/22/2022,3/23/2022,3/8/2010
+262,pangoa,Junín,Satipo,Pangoa,-74.4918285,-11.5529727,7.2,1.304347826,octubre,3/23/2022,3/23/2022,4/22/2015
+263,pangoa,Junín,Satipo,Pangoa,-74.4896745,-11.5325464,16.67,50,octubre,3/23/2022,3/23/2022,3/23/2015
+264,pangoa,Junín,Satipo,Pangoa,-74.4866959,-11.5338913,12.8,32,octubre,3/23/2022,3/23/2022,4/13/2015
+265,pangoa,Junín,Satipo,Pangoa,-74.5677537,-11.4423608,15,30,septiembre,3/23/2022,3/23/2022,4/8/2019
+266,pangoa,Junín,Satipo,Pangoa,-74.3803104,-11.4543679,5,10,octubre,3/24/2022,3/24/2022,5/3/2021
+267,pangoa,Junín,Satipo,Pangoa,-74.3677364,-11.4708509,8.75,35,agosto,3/24/2022,3/24/2022,4/13/2015
+268,pangoa,Junín,Satipo,Pangoa,-74.3061895,-11.3886688,6.8,17,octubre,3/25/2022,3/29/2022,4/14/2014
+269,pangoa,Junín,Satipo,Pangoa,-74.3708507,-11.4756231,10.5,21,septiembre,3/24/2022,3/29/2022,4/23/2018
+270,pangoa,Junín,Satipo,Pangoa,-74.3318834,-11.4075059,21,1.52173913,octubre,3/25/2022,3/29/2022,4/14/2014
+271,pangoa,Junín,Satipo,Pangoa,-74.3375117,-11.4465138,10.67,16,septiembre,3/25/2022,3/29/2022,4/27/2018
+272,pangoa,Junín,Satipo,Pangoa,-74.3426723,-11.4397267,10.47,1.612318841,septiembre,3/25/2022,3/30/2022,4/4/2011
+273,pangoa,Junín,Satipo,Pangoa,-74.3805654,-11.4873466,7.67,23,septiembre,3/24/2022,3/29/2022,4/17/2017
+274,pangoa,Junín,Satipo,Pangoa,-74.3854822,-11.4884097,4.62,30,agosto,3/24/2022,3/29/2022,4/13/2015
+275,pangoa,Junín,Satipo,Pangoa,-74.3509069,-11.4453492,6,18,septiembre,3/25/2022,3/29/2022,4/11/2016
+276,pangoa,Junín,Satipo,Pangoa,-74.3541257,-11.6532154,13.2,33,agosto,3/31/2022,3/31/2022,4/20/2015
+277,pangoa,Junín,Satipo,Pangoa,-74.3591086,-11.6488308,8,24,agosto,3/31/2022,3/31/2022,4/10/2017
+278,pangoa,Junín,Satipo,Pangoa,-74.3637316,-11.6597659,4.67,14,agosto,3/31/2022,3/31/2022,4/8/2013
+279,pangoa,Junín,Satipo,Pangoa,-74.380393,-11.6167614,6.25,25,septiembre,3/31/2022,3/31/2022,4/7/2014
+280,pangoa,Junín,Satipo,Pangoa,-74.3700629,-11.6490743,11.33,1.231884058,agosto,3/31/2022,3/31/2022,3/31/2013
+281,pangoa,Junín,Satipo,Pangoa,-74.2935683,-11.5510808,22.5,2.445652174,septiembre,3/30/2022,3/31/2022,4/16/2022
+282,pangoa,Junín,Satipo,Pangoa,-74.2931415,-11.5518958,25,2.717391304,septiembre,3/30/2022,3/31/2022,4/16/2022
+283,pangoa,Junín,Satipo,Pangoa,-74.2904833,-11.5531677,12.5,1.358695652,octubre,3/30/2022,3/31/2022,4/14/2022
+284,pangoa,Junín,Satipo,Pangoa,-74.2906234,-11.5576389,16.25,1.177536232,octubre,3/30/2022,3/31/2022,4/8/2022
+285,pangoa,Junín,Satipo,Pangoa,-74.2976854,-11.54758,23.75,3.442028986,septiembre,3/29/2022,3/31/2022,4/13/2022
+286,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4916987,-6.1419895,11,11,octubre,3/31/2022,4/1/2022,8/17/2016
+287,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.480662,-6.1666942,20,10,noviembre,4/1/2022,4/1/2022,8/26/2018
+288,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4804532,-6.1654322,5.33,8,octubre,4/1/2022,4/1/2022,8/8/2013
+289,norandino,LAMBAYEQUE,LAMBAYEQUE,SOLAS,-79.4804712,-6.1642175,9,9,octubre,4/1/2022,4/1/2022,8/19/2016
+290,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4902056,-6.1413292,20,20,octubre,4/1/2022,4/1/2022,8/16/2018
+291,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4966558,-6.1410328,22,22,octubre,4/1/2022,4/1/2022,7/27/2019
+292,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4971879,-6.1408012,12,12,septiembre,4/1/2022,4/1/2022,8/23/2018
+293,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4949973,-6.1411961,12.5,25,octubre,4/1/2022,4/1/2022,9/4/2017
+294,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4955585,-6.1413355,5,5,octubre,3/31/2022,4/1/2022,7/30/2011
+295,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4938749,-6.1417814,5,10,noviembre,3/30/2022,4/1/2022,8/10/2016
+296,pangoa,Junin,Satipo,Pangoa,-74.3394905,-11.4344431,6.5,39,octubre,3/25/2022,4/1/2022,4/29/2022
+297,pangoa,Junin,Satipo,Pangoa,-74.323375,-11.4125566,8.89,40,noviembre,3/29/2022,4/1/2022,4/12/2022
+298,pangoa,Junin,Satipo,Pangoa,-74.3212023,-11.4108923,4.5,9,noviembre,3/29/2022,4/1/2022,4/21/2022
+299,pangoa,Junín,Satipo,Pangoa,-74.3253849,-11.416081,18,36,noviembre,3/29/2022,4/1/2022,4/14/2022
+300,pangoa,Junín,Satipo,Pangoa,-74.3557612,-11.441527,12.25,49,septiembre,3/31/2022,4/1/2022,4/10/2022
+301,pangoa,Junin,Satipo,Pangoa,-74.3756487,-11.4521606,22.5,1.630434783,septiembre,3/31/2022,4/1/2022,3/23/2022
+302,pangoa,Junin,Satipo,Pangoa,-74.3749709,-11.4521835,16.36,45,octubre,3/31/2022,4/1/2022,3/17/2022
+303,norandino,PIURA,AYABACA,JILILÍ,-79.834909,-4.5750755,10,5,octubre,3/31/2022,4/2/2022,5/15/2022
+304,norandino,Piura,Ayabaca,Montero,-79.8145853,-4.6277237,4,5,noviembre,4/2/2022,4/2/2022,7/15/2022
+305,norandino,Piura,Ayabaca,Montero,-79.8136322,-4.6269948,3,9,noviembre,4/2/2022,4/2/2022,7/15/2022
+306,norandino,Piura,Ayabaca,Montero,-79.8370907,-4.6388662,13.33,20,noviembre,4/2/2022,4/2/2022,7/15/2022
+307,norandino,Piura,Ayabaca,Montero,-79.840419,-4.6391606,10,30,noviembre,4/2/2022,4/2/2022,8/5/2022
+308,norandino,Piura,Huancabamba,Lalaquiz,-79.6442456,-5.209242,30,45,septiembre,4/2/2022,4/2/2022,4/2/2022
+309,norandino,Piura,Huancabamba,Lalaquiz,-79.6478381,-5.2065944,15,15,septiembre,4/2/2022,4/2/2022,4/2/2022
+310,norandino,Piura,Huancabamba,Lalaquiz,-79.6485301,-5.2068226,4,4,septiembre,4/2/2022,4/2/2022,4/2/2022
+311,norandino,Piura,Huancabamba,Lalaquiz,-79.6497764,-5.2056503,14.67,22,septiembre,4/2/2022,4/2/2022,4/2/2022
+312,norandino,Piura,Huancabamba,Lalaquiz,-79.6495907,-5.2040238,5,10,septiembre,4/2/2022,4/2/2022,4/2/2022
+313,pangoa,Junín,Satipo,Pangoa,-74.4060826,-11.6883117,16.5,1.195652174,septiembre,4/4/2022,4/4/2022,5/6/2019
+314,pangoa,Junín,Satipo,Pangoa,-74.3602924,-11.6553606,21,42,septiembre,4/4/2022,4/4/2022,4/4/2016
+315,pangoa,Junín,Satipo,Pangoa,-74.3045991,-11.3698059,31,1.684782609,octubre,4/1/2022,4/1/2022,5/15/2022
+316,pangoa,Junín,Satipo,Pangoa,-74.300671,-11.3675194,16.67,50,septiembre,4/1/2022,4/1/2022,5/18/2022
+317,pangoa,Junín,Satipo,Pangoa,-74.3011731,-11.0687935,26.43,3.351449275,septiembre,4/4/2022,4/4/2022,5/20/2022
+318,pangoa,Junín,Satipo,Pangoa,-74.2981092,-11.3567918,21,1.902173913,septiembre,4/1/2022,4/4/2022,5/20/2022
+319,pangoa,Junín,Satipo,Pangoa,-74.2785237,-11.3507454,21,1.902173913,octubre,4/1/2022,4/4/2022,4/30/2022
+320,pangoa,Junin,Satipo,Pangoa,-74.4885683,-11.5666215,4.21,20,octubre,3/19/2022,4/4/2022,3/29/2022
+321,pangoa,Junin,Satipo,Pangoa,-74.5504723,-11.4802234,2.73,15,octubre,3/24/2022,3/30/2022,4/6/2022
+322,pangoa,Junin,Satipo,Pangoa,-74.5535125,-11.4926692,10,40,septiembre,3/25/2022,4/1/2022,4/5/2022
+323,pangoa,Junin,Satipo,Pangoa,-74.5404821,-11.4566872,4.33,13,agosto,3/30/2022,3/31/2022,3/30/2022
+324,pangoa,Junin,Satipo,Pangoa,-74.438662,-11.7030267,16.67,50,octubre,3/31/2022,4/4/2022,4/5/2022
+325,pangoa,Junin,Satipo,Pangoa,-74.4265299,-11.6945727,10,30,octubre,3/31/2022,4/4/2022,4/13/2022
+326,pangoa,Junin,Satipo,Pangoa,-74.4168092,-11.7024525,8.33,25,octubre,3/31/2022,4/4/2022,4/5/2022
+327,pangoa,Junin,Satipo,Pangoa,-74.5615139,-11.5063224,1.9,20,octubre,4/4/2022,4/4/2022,4/12/2022
+328,pangoa,Junín,Satipo,Pangoa,-74.2861577,-11.0152578,39.2,1.775362319,septiembre,4/4/2022,4/4/2022,7/10/2022
+329,pangoa,Junin,Satipo,Pangoa,-74.3297726,-11.432594,11,33,septiembre,3/29/2022,4/5/2022,5/18/2022
+330,pangoa,Junín,Satipo,Pangoa,-74.3402869,-11.4326239,8.84,42,octubre,4/1/2022,4/5/2022,5/13/2022
+331,pangoa,Junín,Satipo,Río Tambo,-74.3002031,-11.1055361,10,40,septiembre,4/4/2022,4/4/2022,NA
+332,pangoa,Junin,Satipo,Pangoa,-74.2828369,-11.3823247,23.53,3.623188406,octubre,4/5/2022,4/5/2022,5/4/2022
+333,pangoa,Junín,Satipo,Pangoa,-74.299478,-11.3731098,14,35,septiembre,4/5/2022,4/5/2022,4/22/2022
+334,pangoa,Junín,Satipo,Pangoa,-74.3025476,-11.370426,30,2.173913043,septiembre,4/5/2022,4/5/2022,4/21/2022
+335,pangoa,Junín,Satipo,Pangoa,-74.3037551,-11.3920381,28.89,2.355072464,septiembre,4/5/2022,4/5/2022,4/8/2022
+336,pangoa,Junín,Satipo,Pangoa,-74.2790839,-11.379644,22.43,2.844202899,octubre,4/5/2022,4/5/2022,4/20/2015
+337,pangoa,Junín,Satipo,Pangoa,-74.2796287,-11.3819924,26.67,1.449275362,octubre,4/5/2022,4/5/2022,5/1/2017
+338,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4979596,-6.1409527,5,10,septiembre,4/1/2022,4/5/2022,7/28/2011
+339,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4983397,-6.1402329,15,15,octubre,4/1/2022,4/5/2022,8/25/2018
+340,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4832545,-6.1444848,23.33,7,septiembre,4/5/2022,4/5/2022,7/30/2016
+341,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4846365,-6.1401858,22,22,septiembre,4/5/2022,4/5/2022,8/31/2017
+342,norandino,LAMBAYEQUE,LAMBAYEQUE,SALAS,-79.4832959,-6.13556,20,20,octubre,4/5/2022,4/5/2022,8/24/2017
+343,pangoa,Junín,Satipo,Pangoa,-74.2795889,-11.3502771,1.503623188,1.503623188,octubre,4/1/2022,4/1/2022,4/20/2022
+344,pangoa,Junin,Satipo,Pangoa,-74.2790705,-11.3518698,24,2.173913043,septiembre,4/1/2022,4/1/2022,4/21/2022
+345,pangoa,Junin,Satipo,Pangoa,-74.2960789,-11.3686806,16,1.449275362,septiembre,4/1/2022,4/2/2022,4/1/2022
+346,pangoa,Junin,Satipo,Rio Tambo,-74.2940606,-11.0693096,2,20,octubre,4/4/2022,4/4/2022,5/5/2022
+347,pangoa,Junín,Satipo,Rio Tambo,-74.3077496,-11.0984066,17.78,1.449275362,octubre,4/4/2022,4/4/2022,5/3/2022
+348,pangoa,Junín,Satipo,Pangoa,-74.3151347,-11.3415487,22,1.992753623,octubre,4/5/2022,4/5/2022,4/23/2022
+349,pangoa,Junín,Satipo,Pangoa,-74.4403885,-11.2994429,12.5,50,octubre,4/5/2022,4/5/2022,4/29/2022
+350,pangoa,Junín,Satipo,Pangoa,-74.4406956,-11.3005709,20.33,1.105072464,octubre,4/5/2022,4/5/2022,5/5/2022
+351,pangoa,Junín,Satipo,Pangoa,-74.4403191,-11.3020728,24.29,1.539855072,octubre,4/5/2022,4/5/2022,5/5/2022
+352,pangoa,Junín,Satipo,Pangoa,-74.4385456,-11.3051655,15,45,octubre,4/5/2022,4/5/2022,4/30/2022
+353,pangoa,Junín,Satipo,Pangoa,-74.3149798,-11.3251894,19.6,1.775362319,octubre,4/5/2022,4/6/2022,5/5/2022
+354,pangoa,Junín,Satipo,Pangoa,-74.3159789,-11.3385452,11.67,35,octubre,4/5/2022,4/6/2022,4/30/2022
+355,pangoa,Junín,Satipo,Pangoa,-74.3160888,-11.3401018,20,2.536231884,octubre,4/5/2022,4/6/2022,4/30/2022
+356,pangoa,Junín,Satipo,Pangoa,-74.3139087,-11.3202172,20,3.260869565,octubre,4/5/2022,4/6/2022,5/6/2022
+357,pangoa,Junín,Satipo,Pangoa,-74.3142484,-11.3227685,21.43,2.717391304,octubre,4/5/2022,4/6/2022,5/7/2022
+358,pangoa,Junín,Satipo,Pangoa,-74.3339122,-11.3077401,17.5,35,octubre,4/5/2022,4/6/2022,5/5/2022
+359,pangoa,Junín,Satipo,Pangoa,-74.3335136,-11.3093599,17,51,octubre,4/5/2022,4/6/2022,5/14/2022
+360,pangoa,Junín,Satipo,Pangoa,-74.3231608,-11.3266587,21.67,2.355072464,octubre,4/5/2022,4/6/2022,5/5/2022
+361,pangoa,Junín,Satipo,Pangoa,-74.3219433,-10.9978661,22.38,4.257246377,octubre,4/4/2022,4/6/2022,5/21/2022
+362,pangoa,Junín,Satipo,Pangoa,-74.3207873,-11.5503107,21,1.902173913,octubre,3/30/2022,4/6/2022,5/6/2022
+363,pangoa,Junín,Satipo,Pangoa,-74.2907252,-11.5530263,20,3.804347826,septiembre,3/30/2022,4/6/2022,4/15/2022
+364,pangoa,Junín,Satipo,Pangoa,-74.3711943,-11.3597781,51,1.847826087,octubre,3/29/2022,4/6/2022,4/30/2022
+365,pangoa,Junín,Satipo,Pangoa,-74.3830933,-11.3524676,25.71,1.630434783,octubre,3/29/2022,4/6/2022,4/30/2022
+366,pangoa,Junín,Satipo,Pangoa,-74.3618009,-11.3525291,21.67,2.355072464,septiembre,3/29/2022,4/6/2022,4/30/2022
+367,pangoa,Junín,Satipo,Pangoa,-74.3862983,-11.3503691,22,1.992753623,octubre,3/25/2022,4/6/2022,4/30/2022
+368,pangoa,Junín,Satipo,Pangoa,-74.3906328,-11.3572253,14.44,1.177536232,octubre,3/25/2022,4/6/2022,4/30/2022
+369,pangoa,Junín,Satipo,Pangoa,-74.3891993,-11.3557896,26,1.177536232,octubre,3/25/2022,4/6/2022,5/4/2022
+370,pangoa,Junín,Satipo,Pangoa,-74.3625301,-11.3540604,25,1.358695652,octubre,3/25/2022,4/6/2022,5/12/2022
+371,pangoa,Junín,Satipo,Pangoa,-74.3895779,-11.3472963,10.29,18,septiembre,3/25/2022,4/6/2022,4/30/2022
+372,pangoa,Junín,Satipo,Pangoa,-74.3848246,-11.3737854,21,1.902173913,octubre,3/25/2022,4/6/2022,4/30/2022
+373,pangoa,Junin,Satipo,Pangoa,-74.3013858,-11.3823963,2.27,25,octubre,4/5/2022,4/6/2022,5/9/2022
+374,pangoa,Junin,Satipo,Pangoa,-74.3011916,-11.3854649,6,30,octubre,4/5/2022,4/6/2022,4/11/2022
+375,pangoa,Junin,Satipo,Pangoa,-74.3055463,-11.3850661,11,22,octubre,4/5/2022,4/5/2022,4/12/2022
+376,norandino,Piura,Huamcabamba,Lalaquiz,-79.6968325,-5.1661777,18,9,octubre,4/6/2022,4/6/2022,NA
+377,norandino,Piura,Huamcabamba,Lalaquiz,-79.6963863,-5.1671133,7.5,15,octubre,4/6/2022,4/6/2022,NA
+378,norandino,Piura,Huamcabamba,Lalaquiz,-79.6969861,-5.1688499,8,8,octubre,4/6/2022,4/6/2022,NA
+379,norandino,Piura,Huamcabamba,Lalaquiz,-79.6978706,-5.1694959,20,40,octubre,4/6/2022,4/6/2022,NA
+380,norandino,Piura,Huamcabamba,Lalaquiz,-79.6968684,-5.1685594,7.5,15,octubre,4/6/2022,4/7/2022,NA
+381,norandino,Piura,Huamcabamba,Lalaquiz,-79.6889617,-5.1717453,1.268115942,1.268115942,octubre,4/7/2022,4/7/2022,NA
+382,norandino,Piura,Huamcabamba,Lalaquiz,-79.6889712,-5.1705015,15,30,octubre,4/7/2022,4/7/2022,NA
+383,pangoa,Junin,Satipo,Pangoa,-74.491103,-11.4263181,8,24,octubre,4/7/2022,4/7/2022,5/18/2016
+384,pangoa,Junin,Satipo,Pangoa,-74.491052,-11.4263307,17.5,2.536231884,octubre,4/7/2022,4/7/2022,5/2/2013
+385,pangoa,Junin,Satipo,Pangoa,-74.4911048,-11.4263224,11.25,45,octubre,4/7/2022,4/7/2022,5/15/2013
+386,norandino,Piura,Huancabamba,Lalaquiz,-79.6537542,-5.2162045,10,30,septiembre,4/7/2022,4/7/2022,4/7/2022
+387,norandino,Piura,Huancabamba,Lalaquiz,-79.652509,-5.2167166,15,30,septiembre,4/7/2022,4/7/2022,4/7/2022
+388,norandino,Piura,Huancabamba,Lalaquiz,-79.6524821,-5.2167043,10,20,septiembre,4/7/2022,4/7/2022,4/7/2022
+389,norandino,Piura,Huancabamba,Lalaquiz,-79.650305,-5.2134074,15,15,septiembre,4/7/2022,4/7/2022,4/7/2022
+390,norandino,Piura,Huancabamba,Lalaquiz,-79.6512123,-5.2079991,3.33,5,septiembre,4/7/2022,4/7/2022,4/7/2022
+391,norandino,Piura,Huancabamba,Lalaquiz,-79.6468029,-5.198722,13.5,54,septiembre,4/8/2022,4/8/2022,4/8/2022
+392,aprocassi,Cajamarca,San Ignacio,Chirinos,-78.9324007,-5.2354355,20,60,octubre,5/10/2022,5/10/2022,NA
+393,aprocassi,Cajamarca,San Ignacio,Chirinos,-78.9351031,-5.2324787,24,42,octubre,5/10/2022,5/11/2022,NA
+394,aprocassi,Cajamarca,San Ignacio,Chirinos,-78.9343095,-5.2300465,18,9,octubre,5/10/2022,5/11/2022,NA
+395,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.005153,-5.1151689,15,30,noviembre,4/30/2022,4/30/2022,4/6/2022
+396,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8436783,-5.1835517,40.8,1.847826087,septiembre,5/2/2022,5/7/2022,NA
+397,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8415718,-5.1829431,2.463768116,2.463768116,octubre,5/2/2022,5/7/2022,NA
+398,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.839453,-5.1818978,NA,2.898550725,octubre,5/2/2022,5/7/2022,NA
+399,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8393571,-5.1818064,NA,30,octubre,5/2/2022,5/7/2022,NA
+400,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8441288,-5.1850922,NA,24,septiembre,5/2/2022,5/9/2022,NA
+401,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8433907,-5.1837175,NA,26,septiembre,5/2/2022,5/9/2022,NA
+402,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0646283,-5.1451772,NA,50,octubre,5/3/2022,5/3/2022,NA
+403,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.055308,-5.1500847,NA,40,octubre,5/3/2022,5/11/2022,NA
+404,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0540726,-5.1529349,NA,50,octubre,5/3/2022,5/3/2022,NA
+405,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0539612,-5.1530156,NA,20,octubre,5/3/2022,5/11/2022,NA
+406,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0341744,-5.0278396,NA,25,octubre,5/4/2022,5/4/2022,5/4/2012
+407,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0334276,-5.0268255,NA,32,octubre,5/4/2022,5/4/2022,5/4/2017
+408,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8333891,-5.1744219,NA,25,octubre,5/2/2022,5/11/2022,NA
+409,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0694297,-5.1470327,NA,20,septiembre,5/3/2022,5/11/2022,NA
+410,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0521836,-5.1488452,NA,40,septiembre,5/3/2022,5/11/2022,NA
+411,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0525383,-5.1481288,NA,20,septiembre,5/3/2022,5/11/2022,NA
+412,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0580346,-5.1457078,NA,25,octubre,5/3/2022,5/11/2022,NA
+413,aprocassi,Cajamarca,San ignacio,San ignacio,-79.0474414,-5.0306925,NA,45,septiembre,5/4/2022,5/7/2022,NA
+414,aprocassi,Cajamarca,San ignacio,San ignacio,-79.0463288,-5.0389139,NA,1.449275362,septiembre,5/4/2022,5/4/2022,NA
+415,aprocassi,Cajamarca,San Ignacio,San Jose de Louerdes,-78.8455911,-5.1821272,NA,30,octubre,5/2/2022,5/5/2022,5/2/2022
+416,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.844439,-5.1821596,NA,20,octubre,5/2/2022,5/2/2022,5/2/2022
+417,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8464988,-5.180502,NA,25,octubre,5/2/2022,5/2/2022,4/5/2017
+418,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8472587,-5.1813481,NA,31,octubre,5/2/2022,5/2/2022,3/6/2013
+419,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8479747,-5.1823076,NA,20,octubre,5/2/2022,5/2/2022,3/7/2012
+420,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0585436,-5.1453317,NA,20,noviembre,5/3/2022,5/3/2022,6/2/2020
+421,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0561469,-5.1476958,NA,22,noviembre,5/3/2022,5/3/2022,5/3/2012
+422,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0551503,-5.1494693,NA,32,noviembre,5/3/2022,5/3/2022,7/7/2016
+423,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0543957,-5.1513339,NA,30,noviembre,5/3/2022,5/4/2022,5/28/2020
+424,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8462777,-5.1797457,NA,30,octubre,5/2/2022,5/2/2022,NA
+425,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8344375,-5.1756051,NA,30,agosto,5/2/2022,5/9/2022,3/21/2022
+426,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0491585,-5.0956486,NA,30,septiembre,5/9/2022,5/9/2022,4/14/2022
+427,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0486816,-5.0947529,NA,25,septiembre,5/9/2022,5/14/2022,4/20/2022
+428,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0494869,-5.0878079,NA,20,septiembre,5/9/2022,5/9/2022,4/20/2022
+429,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0515308,-5.0858243,NA,1.811594203,septiembre,5/9/2022,5/14/2022,NA
+430,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0442319,-5.1080679,NA,30,septiembre,5/9/2022,5/14/2022,NA
+431,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0516816,-5.0562296,NA,41,septiembre,5/4/2022,5/11/2022,4/12/2022
+432,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0494641,-5.0414651,NA,30,octubre,5/4/2022,5/11/2022,4/12/2022
+433,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0491249,-5.0425275,NA,10,septiembre,5/4/2022,5/11/2022,NA
+434,aprocassi,Cajamarca,San ignacio,San Jose de Lourdes,-78.8773187,-5.1874254,NA,1.449275362,septiembre,5/5/2022,5/7/2022,NA
+435,aprocassi,Cajamarca,San ingacio,Sanjose de lourdes,-78.8635651,-5.1993813,NA,30,septiembre,5/5/2022,5/17/2022,NA
+436,aprocassi,Cajamarca,San ignacio,San ignacio,-79.0465913,-5.0886497,NA,40,octubre,5/9/2022,5/11/2022,NA
+437,aprocassi,Cajamarca,San Ignacio,San Jose de Lourdes,-78.8619476,-5.2013349,NA,30,agosto,5/5/2022,5/11/2022,NA
+438,aprocassi,Cajamarca,San Ignacio,San Jose de Lourdes,-78.8633482,-5.2004749,NA,40,septiembre,5/5/2022,5/11/2022,4/26/2022
+439,aprocassi,Cajamarca,San Ignacio,San Jose de Lourdes,-78.8633035,-5.2004556,NA,40,octubre,5/5/2022,5/11/2022,NA
+440,aprocassi,Cajamarca,San Ignacio,San jose de lourdes,-78.866124,-5.1994813,NA,2.173913043,septiembre,5/5/2022,5/11/2022,NA
+441,aprocassi,Cajamarca,San ignacio,San ignacio,-79.0344294,-5.0534925,NA,25,septiembre,5/9/2022,5/9/2022,NA
+442,aprocassi,Cajamarca,San ignacio,Chirinos,-78.9030268,-5.2272572,NA,20,octubre,5/10/2022,5/11/2022,NA
+443,aprocassi,Cajamarca,San ignacio,San jose de lourdes,-78.863295,-5.2011816,NA,1.449275362,septiembre,5/5/2022,5/11/2022,NA
+444,aprocassi,Cajamarca,San ignacio,San jose de lourdes,-78.8644888,-5.1971984,NA,1.413043478,septiembre,5/5/2022,5/11/2022,NA
+445,aprocassi,Cajamarca,San ignacio,San ignacio,-79.0458106,-5.0657619,NA,50,octubre,5/9/2022,5/11/2022,NA
+446,aprocassi,Cajamarca,San ignacio,Chirinos,-78.9160683,-5.2343807,NA,30,septiembre,5/10/2022,5/11/2022,NA
+447,aprocassi,Cajamarca,San ignacio,Chirinos,-78.9155202,-5.2349994,NA,40,septiembre,5/10/2022,5/11/2022,NA
+448,aprocassi,Cajamarca,San ignacio,Chirinos,-78.9177952,-5.229281,NA,40,octubre,5/10/2022,5/11/2022,NA
+449,aprocassi,Cajamarca,San ignacio,Chirinos,-78.9211135,-5.2300466,NA,45,octubre,5/10/2022,5/11/2022,NA
+450,aprocassi,Cajamarca,San ignacio,Chirinos,-78.9171421,-5.2267236,NA,40,octubre,5/10/2022,5/11/2022,NA
+451,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0628842,-5.1374699,NA,1.630434783,octubre,5/11/2022,5/17/2022,6/14/2022
+452,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0602948,-5.1367356,NA,1.630434783,noviembre,5/11/2022,5/17/2022,NA
+453,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0369084,-5.0258953,NA,35,septiembre,5/4/2022,5/11/2022,4/10/2019
+454,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0334305,-5.0268171,NA,28,octubre,5/4/2022,5/11/2022,4/6/2016
+455,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8583399,-5.2066329,NA,50,octubre,5/5/2022,5/11/2022,4/7/2016
+456,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8585467,-5.2060229,NA,30,octubre,5/5/2022,5/11/2022,4/13/2016
+457,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8660392,-5.2014271,NA,60,octubre,5/5/2022,5/11/2022,4/15/2016
+458,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.8648483,-5.2019168,NA,56,septiembre,5/5/2022,5/11/2022,4/8/2015
+459,aprocassi,Cajamarca,San Ignacio,San José de Lourdes,-78.866615,-5.1986259,NA,28,septiembre,5/5/2022,5/11/2022,4/13/2016
+460,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0432248,-5.1334522,NA,35,agosto,5/23/2022,5/23/2022,NA
+461,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0837241,-5.0958985,NA,1.630434783,agosto,5/23/2022,5/23/2022,NA
+462,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.082424,-5.0937121,NA,40,agosto,5/23/2022,5/23/2022,NA
+463,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.075407,-5.0989704,NA,1.268115942,agosto,5/23/2022,5/23/2022,NA
+464,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0606297,-5.0949784,NA,1.449275362,septiembre,5/24/2022,5/24/2022,NA
+465,aprocassi,Cajamarca,San Ignacio,Namballe,-79.0805357,-5.070672,NA,2.173913043,agosto,5/24/2022,5/24/2022,NA
+466,aprocassi,Cajamarca,San Ignacio,Namballe,-79.0862649,-5.0596489,NA,20,agosto,5/24/2022,5/24/2022,NA
+467,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0721347,-5.0795239,NA,20,septiembre,5/23/2022,5/26/2022,NA
+468,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0715655,-5.0854987,NA,50,octubre,5/23/2022,5/26/2022,NA
+469,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0790969,-5.0896113,NA,33,septiembre,5/23/2022,5/26/2022,NA
+470,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0742496,-5.0927301,NA,52,octubre,5/23/2022,5/26/2022,NA
+471,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0759844,-5.0983287,NA,30,septiembre,5/23/2022,5/26/2022,NA
+472,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0852031,-5.1405421,NA,6.485507246,octubre,5/20/2022,5/26/2022,NA
+473,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.1010175,-5.1425399,NA,52,octubre,5/20/2022,5/26/2022,NA
+474,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.1006026,-5.1382703,NA,19,octubre,5/20/2022,5/26/2022,NA
+475,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0986166,-5.1360548,NA,24,octubre,5/20/2022,5/26/2022,NA
+476,aprocassi,Cajamarca,San Ignacio,San Ignacio,-79.0924952,-5.1379556,NA,3.623188406,octubre,5/20/2022,5/26/2022,NA
+477,aprocassi,Cajamarca,San Ignacio,Namballe,-79.0898633,-5.043481,NA,11,agosto,5/24/2022,5/28/2022,NA
+478,pangoa,Junin,Satipo,Pangoa,-74.4689161,-11.5602406,NA,7,agosto,6/8/2022,6/8/2022,5/21/2013
+479,pangoa,Junin,Satipo,Pangoa,-74.4434741,-11.6919344,NA,30,septiembre,6/14/2022,6/14/2022,4/18/2017
+480,pangoa,Junin,Satipo,Pangoa,-74.4265502,-11.6995145,NA,33,octubre,6/14/2022,6/14/2022,4/25/2014
+481,pangoa,Junin,Satipo,Pangoa,-74.4130256,-11.7419568,NA,51,octubre,6/14/2022,6/14/2022,4/18/2016
+482,pangoa,Junin,Satipo,Pangoa,-74.5000884,-11.5650044,NA,18,septiembre,6/15/2022,6/16/2022,4/18/2016
+483,pangoa,Junín,Satipo,PANGOA,-74.49967,-11.5670012,NA,27,septiembre,6/15/2022,6/15/2022,5/5/2014
+484,pangoa,Junin,Satipo,Pangoa,-74.4933968,-11.5497476,NA,26,septiembre,6/15/2022,6/15/2022,5/7/2014
+485,pangoa,Junin,Satipo,Mazamari,-74.3160364,-11.3385927,NA,60,octubre,6/16/2022,6/16/2022,4/18/2016
+486,pangoa,Junín,Satipo,Mazamari,-74.2973863,-11.3424278,NA,2.699275362,octubre,6/16/2022,6/16/2022,4/15/2014
+487,pangoa,Junín,Satipo,Mazamari,-74.2981792,-11.3402811,NA,24,septiembre,6/16/2022,6/16/2022,4/18/2016
+488,pangoa,Huancavelica,Pampas,Colcabamba,-74.5034265,-11.5641022,NA,7,noviembre,6/7/2022,6/20/2022,6/7/2022
+489,pangoa,Junin,Satipo,Pangoa,-74.5070751,-11.5654882,NA,24,noviembre,6/7/2022,6/20/2022,5/31/2022
+490,pangoa,Huancavelica,Tallacaja,Sulcobamba,-74.4941115,-11.5465534,NA,33,octubre,6/8/2022,6/20/2022,5/10/2022
+491,pangoa,Junin,Junin,Santo Domingo de Acobamba,-74.4934349,-11.5513307,NA,20,agosto,6/8/2022,6/8/2022,5/2/2022
+492,pangoa,Junín,Huancayo,Santo Domingo de Acobamba,-74.499162,-11.5511031,NA,12,septiembre,6/8/2022,6/8/2022,5/11/2022
+493,pangoa,"Junin 
+","Satipo 
+",Pangoa,-74.4535848,-11.7181843,NA,6,enero,6/15/2022,6/15/2022,6/13/2022
+494,pangoa,Junin,Satipo,Mazamari,-74.3091552,-11.3461399,NA,15,septiembre,6/16/2022,6/16/2022,6/1/2022
+495,pangoa,Junin,Satipo,Pangoa,-74.3017443,-11.3386667,NA,15,marzo,6/16/2022,6/19/2022,6/2/2022
+496,pangoa,Junin,Satipo,Pangoa,-74.4229875,-11.72044,NA,33,agosto,6/15/2022,6/20/2022,5/27/2022
+497,pangoa,Junin,Satipo,Pangoa,-74.517673,-11.4810665,NA,33,agosto,6/11/2022,6/20/2022,5/30/2022
+498,pangoa,Junin,Satipo,Pangoa,-74.4138107,-11.6850307,NA,35,marzo,6/15/2022,6/20/2022,5/25/2022
+499,pangoa,Junín,Satipo,Pangoa,-74.389919,-11.3594481,NA,50,septiembre,6/22/2022,6/24/2022,4/23/2022
+500,pangoa,Junín,Satipo,Pangoa,-74.3882091,-11.3593951,NA,1.449275362,septiembre,6/22/2022,6/24/2022,4/22/2022
+501,pangoa,Junín,Satipo,Pangoa,-74.3810025,-11.3557105,NA,38,septiembre,6/22/2022,6/24/2022,4/14/2022
+502,pangoa,Junín,Satipo,Pangoa,-74.3842781,-11.3755315,NA,1.630434783,septiembre,6/22/2022,6/24/2022,4/12/2022
+503,pangoa,Junín,Satipo,Pangoa,-74.3723298,-11.3598002,NA,1.25,septiembre,6/22/2022,6/24/2022,4/13/2022
+504,pangoa,Junín,Satipo,Pangoa,-74.3138358,-11.3452876,NA,60,septiembre,6/22/2022,6/27/2022,4/15/2022
+505,pangoa,Junín,Satipo,Pangoa,-74.3233234,-11.3406325,NA,2.355072464,septiembre,6/22/2022,6/27/2022,4/13/2022
+506,pangoa,Junín,Satipo,Pangoa,-74.3072007,-11.3231288,NA,4.166666667,septiembre,6/22/2022,6/27/2022,4/15/2022
+507,pangoa,Junín,Satipo,Pangoa,-74.3062388,-11.3265125,NA,55,septiembre,6/22/2022,6/27/2022,4/14/2022
+508,chirinos,CJAMARCA,SAN IGNACIO,CHIRINOS,-78.8873017,-5.2816411,NA,15,noviembre,7/25/2022,7/25/2022,7/25/2018
+509,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8751317,-5.3249333,NA,25,septiembre,7/27/2022,7/27/2022,7/27/2022
+510,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8767083,-5.3229367,NA,30,septiembre,7/27/2022,7/27/2022,NA
+511,chirinos,Cajamarca,San Ignacio,Chirinos,-78.881745,-5.317365,NA,1.449275362,septiembre,7/27/2022,7/27/2022,NA
+512,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8852383,-5.318735,NA,35,noviembre,7/27/2022,7/28/2022,NA
+513,chirinos,Cajamarca,San Ignacio,Chirinos,-78.88334,-5.3207417,NA,30,septiembre,7/30/2022,7/30/2022,7/30/2015
+514,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8845433,-5.319525,NA,25,septiembre,7/30/2022,7/30/2022,7/30/2017
+515,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8969033,-5.307555,NA,1.630434783,septiembre,7/30/2022,7/30/2022,7/30/2018
+516,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8823087,-5.2920804,NA,50,septiembre,7/25/2022,8/1/2022,4/4/2022
+517,chirinos,Cajamarca,San Ignacio,Chirinos,-78.89088,-5.3150117,NA,25,septiembre,8/1/2022,8/1/2022,4/15/2022
+518,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.01096,-5.3517717,NA,1.630434783,septiembre,7/28/2022,7/28/2022,4/10/2018
+519,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0207777,-5.3386446,NA,6,octubre,7/28/2022,7/29/2022,4/1/2020
+520,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0041214,-5.39571,NA,25,octubre,7/27/2022,7/27/2022,7/27/2017
+521,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0053731,-5.3963435,NA,1.539855072,octubre,7/27/2022,7/28/2022,7/27/2018
+522,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0212591,-5.3552513,NA,18,octubre,7/29/2022,7/29/2022,3/4/2014
+523,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0209795,-5.3554116,NA,1.721014493,septiembre,7/29/2022,7/29/2022,3/1/2016
+524,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-78.997373,-5.4120648,NA,50,agosto,7/27/2022,7/28/2022,7/27/2019
+525,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0056198,-5.3973134,NA,2.717391304,agosto,7/27/2022,7/27/2022,7/27/2013
+526,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0050832,-5.3972775,NA,30,octubre,7/27/2022,7/27/2022,7/27/2010
+527,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0099234,-5.3822673,NA,35,octubre,7/28/2022,7/28/2022,7/2/2018
+528,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0197533,-5.3624941,NA,50,octubre,7/28/2022,7/31/2022,7/28/2019
+529,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0060574,-5.3514577,NA,2.536231884,octubre,7/28/2022,7/28/2022,3/1/2019
+530,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0194761,-5.3341394,NA,1.177536232,octubre,7/28/2022,7/28/2022,2/1/2018
+531,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8759758,-5.3238195,NA,1.177536232,octubre,7/27/2022,8/3/2022,7/27/2010
+532,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8809308,-5.3205825,NA,2.173913043,octubre,7/27/2022,7/27/2022,4/20/2017
+533,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9035417,-5.3050017,NA,40,septiembre,8/2/2022,8/2/2022,8/2/2022
+534,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8840269,-5.3129623,NA,20,septiembre,8/1/2022,8/2/2022,6/16/2022
+535,chirinos,Cajamarca,San Ignacio,Chirinos,-78.882414,-5.313808,NA,30,octubre,8/1/2022,8/3/2022,6/16/2022
+536,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8862994,-5.3154831,NA,25,septiembre,8/1/2022,8/7/2022,6/9/2022
+537,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9003453,-5.3043997,NA,22,noviembre,8/2/2022,8/4/2022,8/2/2022
+538,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9095231,-5.2995783,NA,10,septiembre,8/3/2022,8/7/2022,6/2/2022
+539,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9212451,-5.3202428,NA,35,septiembre,8/3/2022,8/7/2022,6/16/2022
+540,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9382343,-5.3227816,NA,30,agosto,8/3/2022,8/7/2022,8/3/2022
+541,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9389366,-5.327339,NA,1.268115942,septiembre,8/3/2022,8/7/2022,6/2/2022
+542,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9493985,-5.2977189,NA,10,noviembre,8/4/2022,8/7/2022,NA
+543,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9198644,-5.2908623,NA,25,noviembre,8/2/2022,8/7/2022,7/22/2022
+544,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9691742,-5.2879881,NA,0,septiembre,8/4/2022,8/7/2022,7/8/2022
+545,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9441076,-5.2965736,NA,3.260869565,octubre,8/5/2022,8/7/2022,6/9/2022
+546,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9565723,-5.2860134,NA,55,septiembre,8/5/2022,8/5/2022,7/7/2022
+547,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9691667,-5.2901217,NA,30,noviembre,8/6/2022,8/7/2022,7/14/2022
+548,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9487434,-5.2979415,NA,30,octubre,8/4/2022,8/7/2022,7/14/2022
+549,chirinos,Cajamarca,San Ignacio,Chirinos,-78.972947,-5.2841362,NA,0,septiembre,8/6/2022,8/7/2022,NA
+550,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9460566,-5.3034961,NA,40,septiembre,8/5/2022,8/5/2022,8/4/2022
+551,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9560564,-5.2855189,NA,20,octubre,8/5/2022,8/7/2022,8/5/2022
+552,chirinos,Cajamarca,"San Ignacio
+",Chirinos,-78.9054428,-5.2873455,NA,50,septiembre,8/5/2022,8/8/2022,7/16/2022
+553,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9337259,-5.2945741,NA,25,septiembre,8/8/2022,8/8/2022,6/16/2022
+554,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9016238,-5.3036586,NA,2.355072464,octubre,8/8/2022,8/8/2022,6/6/2022
+555,chirinos,Cajamarca,San Ignacio,Chirinos,-78.914179,-5.2881191,NA,50,noviembre,8/8/2022,8/8/2022,7/4/2022
+556,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9130476,-5.2887457,NA,1.358695652,octubre,8/8/2022,8/8/2022,6/6/2022
+557,chirinos,Cajamarca,San Ignacio,Chirinos,-78.896886,-5.3076347,NA,40,octubre,8/8/2022,8/9/2022,8/8/2015
+558,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9159488,-5.2789076,NA,25,septiembre,8/8/2022,8/9/2022,NA
+559,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9156342,-5.2782796,NA,60,septiembre,8/9/2022,8/9/2022,NA
+560,chirinos,Cajamarca,San Ignacio,Chirinos,-78.896847,-5.3077203,NA,60,octubre,8/8/2022,8/9/2022,6/6/2022
+561,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9167416,-5.2879581,NA,1.449275362,octubre,8/8/2022,8/8/2022,8/8/2022
+562,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9058423,-5.2416377,NA,30,octubre,8/2/2022,8/8/2022,3/15/2022
+563,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8866078,-5.3196629,NA,40,septiembre,8/9/2022,8/9/2022,NA
+564,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9175947,-5.2371521,NA,30,noviembre,8/2/2022,8/8/2022,6/9/2022
+565,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9169047,-5.2368492,NA,10,octubre,8/2/2022,8/8/2022,8/3/2022
+566,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-78.9931396,-5.4031498,NA,60,septiembre,7/25/2022,8/10/2022,3/7/2012
+567,chirinos,CAJAMARCA,San Ignacio,CHIRINOS,-78.9313964,-5.2836153,NA,45,septiembre,8/4/2022,8/9/2022,8/4/2022
+568,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9293072,-5.2831252,NA,15,septiembre,8/5/2022,8/9/2022,6/1/2022
+569,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8783154,-5.322161,NA,60,diciembre,8/8/2022,8/8/2022,8/8/2022
+570,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9639158,-5.2588197,NA,30,noviembre,8/8/2022,8/8/2022,5/3/2022
+571,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9605886,-5.2734422,NA,1.268115942,septiembre,8/8/2022,8/8/2022,8/8/2022
+572,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9428753,-5.2797983,NA,1.630434783,octubre,8/9/2022,8/9/2022,8/9/2022
+573,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9504463,-5.2832429,NA,40,septiembre,8/9/2022,8/9/2022,5/10/2022
+574,chirinos,Cajamarca,San Ignacio,Chirinos,-78.89527,-5.305,NA,1.630434783,octubre,8/9/2022,8/9/2022,6/8/2022
+575,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8808425,-5.3028049,NA,50,octubre,8/10/2022,8/10/2022,NA
+576,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8796383,-5.2990009,NA,15,octubre,8/10/2022,8/10/2022,NA
+577,chirinos,Cajamarca,San Ignacio,Chirinos,-78.90285,-5.2801395,NA,30,noviembre,8/11/2022,8/11/2022,NA
+578,chirinos,Cajamarca,San Ignacio,Chirinos,-78.90456,-5.2824736,NA,25,septiembre,8/11/2022,8/11/2022,NA
+579,chirinos,"Cajamarca
+",San Ignacio,Chirinos,-78.8983652,-5.3114751,NA,2.173913043,septiembre,8/9/2022,8/13/2022,4/18/2022
+580,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8983682,-5.306187,NA,38,septiembre,8/9/2022,8/14/2022,8/15/2022
+581,chirinos,San Ignacio,San Ignacio,Chirinos,-78.8970144,-5.3113635,NA,2.536231884,septiembre,8/11/2022,8/14/2022,6/4/2022
+582,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9021248,-5.3182423,NA,22,septiembre,8/9/2022,8/14/2022,4/20/2022
+583,chirinos,Cajamarca,San Ignacio,Chirinos,-78.89625,-5.3105433,NA,1.811594203,octubre,8/9/2022,8/14/2022,5/15/2022
+584,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8969161,-5.3075872,NA,48,octubre,8/9/2022,8/14/2022,4/17/2022
+585,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8969451,-5.3076713,NA,18,septiembre,8/9/2022,8/14/2022,3/15/2022
+586,chirinos,San Ignacio,San Ignacio,Chirinos,-78.8928969,-5.3116636,NA,38,julio,8/12/2022,8/14/2022,5/2/2022
+587,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8863698,-5.3394535,NA,40,octubre,8/9/2022,8/14/2022,6/6/2022
+588,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9015952,-5.3035841,NA,35,octubre,8/9/2022,8/14/2022,7/4/2022
+589,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9129094,-5.2887573,NA,35,octubre,8/9/2022,8/16/2022,6/6/2022
+590,chirinos,Cajamarca,San Ignacio,Chirinos,-78.89699,-5.3076238,NA,35,octubre,8/9/2022,8/16/2022,6/13/2022
+591,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9506553,-5.3221392,NA,1.177536232,octubre,8/12/2022,8/12/2022,NA
+592,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0275267,-5.3568527,NA,40,octubre,8/11/2022,8/11/2022,5/3/2016
+593,chirinos,CAJAMARCA,SAN IGNACIO,LA COIPA,-79.0259231,-5.3603818,NA,1.811594203,septiembre,8/11/2022,8/11/2022,3/1/2013
+594,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8892319,-5.3137287,NA,30,septiembre,8/15/2022,8/15/2022,8/15/2022
+595,chirinos,Cajamarca,San Ignacio,Chirinos,-78.889196,-5.3136746,NA,23,septiembre,8/15/2022,8/15/2022,8/15/2022
+596,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9008393,-5.3120441,NA,8,septiembre,8/16/2022,8/16/2022,NA
+597,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9024666,-5.3120401,NA,1.721014493,septiembre,8/16/2022,8/17/2022,NA
+598,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9505265,-5.3215747,NA,30,septiembre,8/12/2022,8/17/2022,NA
+599,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8971855,-5.3075324,NA,12,octubre,8/16/2022,8/16/2022,NA
+600,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9003858,-5.3147658,NA,28,octubre,8/16/2022,8/16/2022,NA
+601,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9519045,-5.3199683,NA,25,octubre,8/12/2022,8/17/2022,NA
+602,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8995849,-5.3170162,NA,20,septiembre,8/17/2022,8/17/2022,NA
+603,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8545217,-5.3024746,NA,35,octubre,8/9/2022,8/16/2022,6/6/2022
+604,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8969779,-5.307559,NA,15,septiembre,8/9/2022,8/16/2022,6/6/2022
+605,chirinos,Cajamarca,San Ignacio,Chirinos,-78.906053,-5.2417386,NA,15,septiembre,8/2/2022,8/12/2022,4/1/2022
+606,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9097592,-5.2410386,NA,40,septiembre,8/3/2022,8/12/2022,8/3/2022
+607,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9085737,-5.2422526,NA,50,septiembre,8/3/2022,8/12/2022,4/12/2022
+608,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8879396,-5.3041184,NA,30,octubre,8/9/2022,8/11/2022,4/5/2022
+609,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8795942,-5.3037689,NA,17,octubre,8/11/2022,8/12/2022,5/3/2022
+610,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9617841,-5.2594889,NA,36,septiembre,8/12/2022,8/12/2022,6/8/2022
+611,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8906848,-5.277076,NA,40,septiembre,8/15/2022,8/15/2022,5/3/2022
+612,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8925121,-5.2737447,NA,35,septiembre,8/15/2022,8/18/2022,4/6/2022
+613,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8939367,-5.27618,NA,30,octubre,8/15/2022,8/18/2022,4/13/2022
+614,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8724544,-5.3031028,NA,30,septiembre,8/16/2022,8/18/2022,5/11/2022
+615,chirinos,Cajamarca,San  Ignacio,Chirinos,-78.8939977,-5.2951568,NA,10,octubre,8/17/2022,8/18/2022,4/5/2022
+616,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8868231,-5.2823085,NA,50,octubre,8/17/2022,8/18/2022,5/12/2022
+617,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9307689,-5.372132,NA,10,octubre,8/18/2022,8/18/2022,4/18/2022
+618,chirinos,Cajamarca,San Ignacio,Chirinos,-78.896884,-5.2808923,NA,25,septiembre,8/15/2022,8/17/2022,4/13/2022
+619,chirinos,Cajamarca,San Ignacio,Chirinos,-78.889361,-5.3162364,NA,15,septiembre,8/16/2022,8/18/2022,6/25/2022
+620,chirinos,Cajamarca,San Ignacio,Chirinos,-78.884867,-5.318624,NA,25,septiembre,8/16/2022,8/16/2022,6/6/2022
+621,chirinos,Cajamarca,San Ignacio,Chirinos,-78.87564,-5.324315,NA,1.449275362,octubre,7/27/2022,8/18/2022,6/7/2022
+622,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8950501,-5.3081719,NA,35,octubre,8/18/2022,8/19/2022,5/16/2022
+623,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9527494,-5.3143714,NA,15,octubre,8/12/2022,8/19/2022,NA
+624,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8996298,-5.3040662,NA,20,octubre,8/17/2022,8/19/2022,6/17/2022
+625,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8786398,-5.3040911,NA,32,octubre,8/10/2022,8/19/2022,NA
+626,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9082221,-5.3241691,NA,1.811594203,septiembre,8/18/2022,8/19/2022,6/16/2022
+627,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9012504,-5.3015223,NA,20,septiembre,8/9/2022,8/18/2022,NA
+628,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8987791,-5.3041013,NA,18,septiembre,8/18/2022,8/19/2022,6/16/2022
+629,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9051997,-5.2907619,NA,20,septiembre,8/9/2022,8/19/2022,NA
+630,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9057518,-5.290986,NA,18,septiembre,8/10/2022,8/19/2022,NA
+631,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8788815,-5.3037129,NA,40,octubre,8/17/2022,8/19/2022,NA
+632,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9049286,-5.3212669,NA,10,septiembre,8/18/2022,8/19/2022,6/9/2022
+633,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8988408,-5.3046396,NA,35,septiembre,8/19/2022,8/19/2022,6/6/2022
+634,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9048288,-5.2931552,NA,30,octubre,8/19/2022,8/19/2022,3/14/2022
+635,chirinos,Cajamarca,San Ignacio,Chirinos,-78.89827,-5.3058366,NA,15,octubre,8/19/2022,8/19/2022,5/2/2022
+636,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8996225,-5.3050644,NA,35,octubre,8/16/2022,8/19/2022,6/6/2022
+637,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9042746,-5.3196413,NA,21,septiembre,8/18/2022,8/19/2022,5/2/2022
+638,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9006266,-5.284412,NA,20,noviembre,8/18/2022,8/19/2022,5/9/2022
+639,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9003564,-5.3027884,NA,20,septiembre,8/18/2022,8/19/2022,5/9/2022
+640,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9051137,-5.2909396,NA,1.449275362,noviembre,8/18/2022,8/19/2022,8/1/2022
+641,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8882973,-5.325951,NA,25,octubre,8/16/2022,8/19/2022,3/7/2022
+642,chirinos,Cajamarca,San Ignacio,Chirinos,-78.8982601,-5.3160915,NA,1.630434783,septiembre,8/17/2022,8/19/2022,5/16/2022
+643,chirinos,Cajamarca,San Ignacio,Chirinos,-78.905999,-5.31017,NA,23,octubre,7/27/2022,7/28/2022,3/10/2017
+644,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9266225,-5.2255594,NA,1.811594203,octubre,8/4/2022,8/21/2022,8/4/2022
+645,chirinos,Cajamarca,San Ignacio,Chirinos,-78.9276567,-5.2424367,NA,1.630434783,agosto,8/4/2022,8/21/2022,8/4/2022
